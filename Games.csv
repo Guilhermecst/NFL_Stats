@@ -1,0 +1,1182 @@
+team,week,opponent,result
+Cincinnati Bengals,13,Steelers,L 38 - 44
+Cincinnati Bengals,14,@Cowboys,W 27 - 20
+Cincinnati Bengals,15,@Titans,W 37 - 27
+Cincinnati Bengals,17,Broncos,W 30 - 24
+Cincinnati Bengals,18,@Steelers,W 19 - 17
+Cincinnati Bengals,1,Patriots,L 10 - 16
+Cincinnati Bengals,2,@Chiefs,L 25 - 26
+Cincinnati Bengals,3,Commanders,L 33 - 38
+Cincinnati Bengals,4,@Panthers,W 34 - 24
+Cincinnati Bengals,5,Ravens,L 38 - 41
+Cincinnati Bengals,6,@Giants,W 17 - 7
+Cincinnati Bengals,7,@Browns,W 21 - 14
+Cincinnati Bengals,8,Eagles,L 17 - 37
+Cincinnati Bengals,9,Raiders,W 41 - 24
+Cincinnati Bengals,10,@Ravens,L 34 - 35
+Cincinnati Bengals,11,@Chargers,L 27 - 34
+Cincinnati Bengals,16,Browns,W 24 - 6
+Detroit Lions,13,Bears,W 23 - 20
+Detroit Lions,14,Packers,W 34 - 31
+Detroit Lions,15,Bills,L 42 - 48
+Detroit Lions,16,@Bears,W 34 - 17
+Detroit Lions,17,@49ers,W 40 - 34
+Detroit Lions,18,Vikings,W 31 - 9
+Detroit Lions,1,Rams,W 26 - 20
+Detroit Lions,2,Buccaneers,L 16 - 20
+Detroit Lions,3,@Cardinals,W 20 - 13
+Detroit Lions,4,Seahawks,W 42 - 29
+Detroit Lions,6,@Cowboys,W 47 - 9
+Detroit Lions,7,@Vikings,W 31 - 29
+Detroit Lions,8,Titans,W 52 - 14
+Detroit Lions,9,@Packers,W 24 - 14
+Detroit Lions,10,@Texans,W 26 - 23
+Detroit Lions,11,Jaguars,W 52 - 6
+Detroit Lions,12,@Colts,W 24 - 6
+Tampa Bay Buccaneers,13,@Panthers,W 26 - 23
+Tampa Bay Buccaneers,14,Raiders,W 28 - 13
+Tampa Bay Buccaneers,15,@Chargers,W 40 - 17
+Tampa Bay Buccaneers,16,@Cowboys,L 24 - 26
+Tampa Bay Buccaneers,17,Panthers,W 48 - 14
+Tampa Bay Buccaneers,18,Saints,W 27 - 19
+Tampa Bay Buccaneers,1,Commanders,W 37 - 20
+Tampa Bay Buccaneers,2,@Lions,W 20 - 16
+Tampa Bay Buccaneers,3,Broncos,L 7 - 26
+Tampa Bay Buccaneers,4,Eagles,W 33 - 16
+Tampa Bay Buccaneers,5,@Falcons,L 30 - 36
+Tampa Bay Buccaneers,6,@Saints,W 51 - 27
+Tampa Bay Buccaneers,7,Ravens,L 31 - 41
+Tampa Bay Buccaneers,8,Falcons,L 26 - 31
+Tampa Bay Buccaneers,9,@Chiefs,L 24 - 30
+Tampa Bay Buccaneers,10,49ers,L 20 - 23
+Tampa Bay Buccaneers,12,@Giants,W 30 - 7
+Seattle Seahawks,13,@Jets,W 26 - 21
+Seattle Seahawks,14,@Cardinals,W 30 - 18
+Seattle Seahawks,15,Packers,L 13 - 30
+Seattle Seahawks,16,Vikings,L 24 - 27
+Seattle Seahawks,17,@Bears,W 6 - 3
+Seattle Seahawks,18,@Rams,W 30 - 25
+Seattle Seahawks,1,Broncos,W 26 - 20
+Seattle Seahawks,2,@Patriots,W 23 - 20
+Seattle Seahawks,3,Dolphins,W 24 - 3
+Seattle Seahawks,4,@Lions,L 29 - 42
+Seattle Seahawks,5,Giants,L 20 - 29
+Seattle Seahawks,6,49ers,L 24 - 36
+Seattle Seahawks,7,@Falcons,W 34 - 14
+Seattle Seahawks,8,Bills,L 10 - 31
+Seattle Seahawks,9,Rams,L 20 - 26
+Seattle Seahawks,11,@49ers,W 20 - 17
+Seattle Seahawks,12,Cardinals,W 16 - 6
+Minnesota Vikings,13,Cardinals,W 23 - 22
+Minnesota Vikings,14,Falcons,W 42 - 21
+Minnesota Vikings,15,Bears,W 30 - 12
+Minnesota Vikings,16,@Seahawks,W 27 - 24
+Minnesota Vikings,17,Packers,W 27 - 25
+Minnesota Vikings,18,@Lions,L 9 - 31
+Minnesota Vikings,1,@Giants,W 28 - 6
+Minnesota Vikings,2,49ers,W 23 - 17
+Minnesota Vikings,3,Texans,W 34 - 7
+Minnesota Vikings,4,@Packers,W 31 - 29
+Minnesota Vikings,5,Jets,W 23 - 17
+Minnesota Vikings,7,Lions,L 29 - 31
+Minnesota Vikings,8,@Rams,L 20 - 30
+Minnesota Vikings,9,Colts,W 21 - 13
+Minnesota Vikings,10,@Jaguars,W 12 - 7
+Minnesota Vikings,11,@Titans,W 23 - 13
+Minnesota Vikings,12,@Bears,W 30 - 27
+Baltimore Ravens,13,Eagles,L 19 - 24
+Baltimore Ravens,15,@Giants,W 35 - 14
+Baltimore Ravens,16,Steelers,W 34 - 17
+Baltimore Ravens,17,@Texans,W 31 - 2
+Baltimore Ravens,18,Browns,W 35 - 10
+Baltimore Ravens,1,@Chiefs,L 20 - 27
+Baltimore Ravens,2,Raiders,L 23 - 26
+Baltimore Ravens,3,@Cowboys,W 28 - 25
+Baltimore Ravens,4,Bills,W 35 - 10
+Baltimore Ravens,5,@Bengals,W 41 - 38
+Baltimore Ravens,6,Commanders,W 30 - 23
+Baltimore Ravens,7,@Buccaneers,W 41 - 31
+Baltimore Ravens,8,@Browns,L 24 - 29
+Baltimore Ravens,9,Broncos,W 41 - 10
+Baltimore Ravens,10,Bengals,W 35 - 34
+Baltimore Ravens,11,@Steelers,L 16 - 18
+Baltimore Ravens,12,@Chargers,W 30 - 23
+Kansas City Chiefs,13,Raiders,W 19 - 17
+Kansas City Chiefs,14,Chargers,W 19 - 17
+Kansas City Chiefs,15,@Browns,W 21 - 7
+Kansas City Chiefs,16,Texans,W 27 - 19
+Kansas City Chiefs,17,@Steelers,W 29 - 10
+Kansas City Chiefs,18,@Broncos,L 0 - 38
+Kansas City Chiefs,1,Ravens,W 27 - 20
+Kansas City Chiefs,2,Bengals,W 26 - 25
+Kansas City Chiefs,3,@Falcons,W 22 - 17
+Kansas City Chiefs,4,@Chargers,W 17 - 10
+Kansas City Chiefs,5,Saints,W 26 - 13
+Kansas City Chiefs,7,@49ers,W 28 - 18
+Kansas City Chiefs,8,@Raiders,W 27 - 20
+Kansas City Chiefs,9,Buccaneers,W 30 - 24
+Kansas City Chiefs,10,Broncos,W 16 - 14
+Kansas City Chiefs,11,@Bills,L 21 - 30
+Kansas City Chiefs,12,@Panthers,W 30 - 27
+New York Jets,13,Seahawks,L 21 - 26
+New York Jets,14,@Dolphins,L 26 - 32
+New York Jets,15,@Jaguars,W 32 - 25
+New York Jets,16,Rams,L 9 - 19
+New York Jets,17,@Bills,L 14 - 40
+New York Jets,18,Dolphins,W 32 - 20
+New York Jets,1,@49ers,L 19 - 32
+New York Jets,2,@Titans,W 24 - 17
+New York Jets,3,Patriots,W 24 - 3
+New York Jets,4,Broncos,L 9 - 10
+New York Jets,5,@Vikings,L 17 - 23
+New York Jets,6,Bills,L 20 - 23
+New York Jets,7,@Steelers,L 15 - 37
+New York Jets,8,@Patriots,L 22 - 25
+New York Jets,9,Texans,W 21 - 13
+New York Jets,10,@Cardinals,L 6 - 31
+New York Jets,11,Colts,L 27 - 28
+Los Angeles Chargers,13,@Falcons,W 17 - 13
+Los Angeles Chargers,14,@Chiefs,L 17 - 19
+Los Angeles Chargers,15,Buccaneers,L 17 - 40
+Los Angeles Chargers,17,@Patriots,W 40 - 7
+Los Angeles Chargers,18,@Raiders,W 34 - 20
+Los Angeles Chargers,16,Broncos,W 34 - 27
+Los Angeles Chargers,1,Raiders,W 22 - 10
+Los Angeles Chargers,2,@Panthers,W 26 - 3
+Los Angeles Chargers,3,@Steelers,L 10 - 20
+Los Angeles Chargers,4,Chiefs,L 10 - 17
+Los Angeles Chargers,6,@Broncos,W 23 - 16
+Los Angeles Chargers,7,@Cardinals,L 15 - 17
+Los Angeles Chargers,8,Saints,W 26 - 8
+Los Angeles Chargers,9,@Browns,W 27 - 10
+Los Angeles Chargers,10,Titans,W 27 - 17
+Los Angeles Chargers,11,Bengals,W 34 - 27
+Los Angeles Chargers,12,Ravens,L 23 - 30
+San Francisco 49ers,13,@Bills,L 10 - 35
+San Francisco 49ers,14,Bears,W 38 - 13
+San Francisco 49ers,15,Rams,L 6 - 12
+San Francisco 49ers,16,@Dolphins,L 17 - 29
+San Francisco 49ers,17,Lions,L 34 - 40
+San Francisco 49ers,18,@Cardinals,L 24 - 47
+San Francisco 49ers,1,Jets,W 32 - 19
+San Francisco 49ers,2,@Vikings,L 17 - 23
+San Francisco 49ers,3,@Rams,L 24 - 27
+San Francisco 49ers,4,Patriots,W 30 - 13
+San Francisco 49ers,5,Cardinals,L 23 - 24
+San Francisco 49ers,6,@Seahawks,W 36 - 24
+San Francisco 49ers,7,Chiefs,L 18 - 28
+San Francisco 49ers,8,Cowboys,W 30 - 24
+San Francisco 49ers,10,@Buccaneers,W 23 - 20
+San Francisco 49ers,11,Seahawks,L 17 - 20
+San Francisco 49ers,12,@Packers,L 10 - 38
+Arizona Cardinals,13,@Vikings,L 22 - 23
+Arizona Cardinals,14,Seahawks,L 18 - 30
+Arizona Cardinals,15,Patriots,W 30 - 17
+Arizona Cardinals,16,@Panthers,L 30 - 36
+Arizona Cardinals,17,@Rams,L 9 - 13
+Arizona Cardinals,18,49ers,W 47 - 24
+Arizona Cardinals,1,@Bills,L 28 - 34
+Arizona Cardinals,2,Rams,W 41 - 10
+Arizona Cardinals,3,Lions,L 13 - 20
+Arizona Cardinals,4,Commanders,L 14 - 42
+Arizona Cardinals,5,@49ers,W 24 - 23
+Arizona Cardinals,6,@Packers,L 13 - 34
+Arizona Cardinals,7,Chargers,W 17 - 15
+Arizona Cardinals,8,@Dolphins,W 28 - 27
+Arizona Cardinals,9,Bears,W 29 - 9
+Arizona Cardinals,10,Jets,W 31 - 6
+Arizona Cardinals,12,@Seahawks,L 6 - 16
+Denver Broncos,13,Browns,W 41 - 32
+Denver Broncos,15,Colts,W 31 - 13
+Denver Broncos,17,@Bengals,L 24 - 30
+Denver Broncos,18,Chiefs,W 38 - 0
+Denver Broncos,16,@Chargers,L 27 - 34
+Denver Broncos,1,@Seahawks,L 20 - 26
+Denver Broncos,2,Steelers,L 6 - 13
+Denver Broncos,3,@Buccaneers,W 26 - 7
+Denver Broncos,4,@Jets,W 10 - 9
+Denver Broncos,5,Raiders,W 34 - 18
+Denver Broncos,6,Chargers,L 16 - 23
+Denver Broncos,7,@Saints,W 33 - 10
+Denver Broncos,8,Panthers,W 28 - 14
+Denver Broncos,9,@Ravens,L 10 - 41
+Denver Broncos,10,@Chiefs,L 14 - 16
+Denver Broncos,11,Falcons,W 38 - 6
+Denver Broncos,12,@Raiders,W 29 - 19
+Los Angeles Rams,13,@Saints,W 21 - 14
+Los Angeles Rams,14,Bills,W 44 - 42
+Los Angeles Rams,15,@49ers,W 12 - 6
+Los Angeles Rams,16,@Jets,W 19 - 9
+Los Angeles Rams,17,Cardinals,W 13 - 9
+Los Angeles Rams,18,Seahawks,L 25 - 30
+Los Angeles Rams,1,@Lions,L 20 - 26
+Los Angeles Rams,2,@Cardinals,L 10 - 41
+Los Angeles Rams,3,49ers,W 27 - 24
+Los Angeles Rams,4,@Bears,L 18 - 24
+Los Angeles Rams,5,Packers,L 19 - 24
+Los Angeles Rams,7,Raiders,W 20 - 15
+Los Angeles Rams,8,Vikings,W 30 - 20
+Los Angeles Rams,9,@Seahawks,W 26 - 20
+Los Angeles Rams,10,Dolphins,L 15 - 23
+Los Angeles Rams,11,@Patriots,W 28 - 22
+Los Angeles Rams,12,Eagles,L 20 - 37
+Buffalo Bills,13,49ers,W 35 - 10
+Buffalo Bills,14,@Rams,L 42 - 44
+Buffalo Bills,15,@Lions,W 48 - 42
+Buffalo Bills,16,Patriots,W 24 - 21
+Buffalo Bills,17,Jets,W 40 - 14
+Buffalo Bills,18,@Patriots,L 16 - 23
+Buffalo Bills,1,Cardinals,W 34 - 28
+Buffalo Bills,2,@Dolphins,W 31 - 10
+Buffalo Bills,3,Jaguars,W 47 - 10
+Buffalo Bills,4,@Ravens,L 10 - 35
+Buffalo Bills,5,@Texans,L 20 - 23
+Buffalo Bills,6,@Jets,W 23 - 20
+Buffalo Bills,7,Titans,W 34 - 10
+Buffalo Bills,8,@Seahawks,W 31 - 10
+Buffalo Bills,9,Dolphins,W 30 - 27
+Buffalo Bills,10,@Colts,W 30 - 20
+Buffalo Bills,11,Chiefs,W 30 - 21
+Houston Texans,13,@Jaguars,W 23 - 20
+Houston Texans,15,Dolphins,W 20 - 12
+Houston Texans,16,@Chiefs,L 19 - 27
+Houston Texans,17,Ravens,L 2 - 31
+Houston Texans,18,@Titans,W 23 - 14
+Houston Texans,1,@Colts,W 29 - 27
+Houston Texans,2,Bears,W 19 - 13
+Houston Texans,3,@Vikings,L 7 - 34
+Houston Texans,4,Jaguars,W 24 - 20
+Houston Texans,5,Bills,W 23 - 20
+Houston Texans,6,@Patriots,W 41 - 21
+Houston Texans,7,@Packers,L 22 - 24
+Houston Texans,8,Colts,W 23 - 20
+Houston Texans,9,@Jets,L 13 - 21
+Houston Texans,10,Lions,L 23 - 26
+Houston Texans,11,@Cowboys,W 34 - 10
+Houston Texans,12,Titans,L 27 - 32
+Washington Commanders,13,Titans,W 42 - 19
+Washington Commanders,15,@Saints,W 20 - 19
+Washington Commanders,16,Eagles,W 36 - 33
+Washington Commanders,17,Falcons,W 30 - 24
+Washington Commanders,18,@Cowboys,W 23 - 19
+Washington Commanders,1,@Buccaneers,L 20 - 37
+Washington Commanders,2,Giants,W 21 - 18
+Washington Commanders,3,@Bengals,W 38 - 33
+Washington Commanders,4,@Cardinals,W 42 - 14
+Washington Commanders,5,Browns,W 34 - 13
+Washington Commanders,6,@Ravens,L 23 - 30
+Washington Commanders,7,Panthers,W 40 - 7
+Washington Commanders,8,Bears,W 18 - 15
+Washington Commanders,9,@Giants,W 27 - 22
+Washington Commanders,10,Steelers,L 27 - 28
+Washington Commanders,11,@Eagles,L 18 - 26
+Washington Commanders,12,Cowboys,L 26 - 34
+Chicago Bears,13,@Lions,L 20 - 23
+Chicago Bears,14,@49ers,L 13 - 38
+Chicago Bears,15,@Vikings,L 12 - 30
+Chicago Bears,16,Lions,L 17 - 34
+Chicago Bears,17,Seahawks,L 3 - 6
+Chicago Bears,18,@Packers,W 24 - 22
+Chicago Bears,1,Titans,W 24 - 17
+Chicago Bears,2,@Texans,L 13 - 19
+Chicago Bears,3,@Colts,L 16 - 21
+Chicago Bears,4,Rams,W 24 - 18
+Chicago Bears,5,Panthers,W 36 - 10
+Chicago Bears,6,Jaguars,W 35 - 16
+Chicago Bears,8,@Commanders,L 15 - 18
+Chicago Bears,9,@Cardinals,L 9 - 29
+Chicago Bears,10,Patriots,L 3 - 19
+Chicago Bears,11,Packers,L 19 - 20
+Chicago Bears,12,Vikings,L 27 - 30
+Atlanta Falcons,13,Chargers,L 13 - 17
+Atlanta Falcons,14,@Vikings,L 21 - 42
+Atlanta Falcons,15,@Raiders,W 15 - 9
+Atlanta Falcons,16,Giants,W 34 - 7
+Atlanta Falcons,17,@Commanders,L 24 - 30
+Atlanta Falcons,18,Panthers,L 38 - 44
+Atlanta Falcons,1,Steelers,L 10 - 18
+Atlanta Falcons,2,@Eagles,W 22 - 21
+Atlanta Falcons,3,Chiefs,L 17 - 22
+Atlanta Falcons,4,Saints,W 26 - 24
+Atlanta Falcons,5,Buccaneers,W 36 - 30
+Atlanta Falcons,6,@Panthers,W 38 - 20
+Atlanta Falcons,7,Seahawks,L 14 - 34
+Atlanta Falcons,8,@Buccaneers,W 31 - 26
+Atlanta Falcons,9,Cowboys,W 27 - 21
+Atlanta Falcons,10,@Saints,L 17 - 20
+Atlanta Falcons,11,@Broncos,L 6 - 38
+Green Bay Packers,13,Dolphins,W 30 - 17
+Green Bay Packers,14,@Lions,L 31 - 34
+Green Bay Packers,15,@Seahawks,W 30 - 13
+Green Bay Packers,16,Saints,W 34 - 0
+Green Bay Packers,17,@Vikings,L 25 - 27
+Green Bay Packers,18,Bears,L 22 - 24
+Green Bay Packers,1,@Eagles,L 29 - 34
+Green Bay Packers,2,Colts,W 16 - 10
+Green Bay Packers,3,@Titans,W 30 - 14
+Green Bay Packers,4,Vikings,L 29 - 31
+Green Bay Packers,5,@Rams,W 24 - 19
+Green Bay Packers,6,Cardinals,W 34 - 13
+Green Bay Packers,7,Texans,W 24 - 22
+Green Bay Packers,8,@Jaguars,W 30 - 27
+Green Bay Packers,9,Lions,L 14 - 24
+Green Bay Packers,11,@Bears,W 20 - 19
+Green Bay Packers,12,49ers,W 38 - 10
+Philadelphia Eagles,13,@Ravens,W 24 - 19
+Philadelphia Eagles,14,Panthers,W 22 - 16
+Philadelphia Eagles,15,Steelers,W 27 - 13
+Philadelphia Eagles,16,@Commanders,L 33 - 36
+Philadelphia Eagles,17,Cowboys,W 41 - 7
+Philadelphia Eagles,18,Giants,W 20 - 13
+Philadelphia Eagles,1,Packers,W 34 - 29
+Philadelphia Eagles,2,Falcons,L 21 - 22
+Philadelphia Eagles,3,@Saints,W 15 - 12
+Philadelphia Eagles,4,@Buccaneers,L 16 - 33
+Philadelphia Eagles,6,Browns,W 20 - 16
+Philadelphia Eagles,7,@Giants,W 28 - 3
+Philadelphia Eagles,8,@Bengals,W 37 - 17
+Philadelphia Eagles,9,Jaguars,W 28 - 23
+Philadelphia Eagles,10,@Cowboys,W 34 - 6
+Philadelphia Eagles,11,Commanders,W 26 - 18
+Philadelphia Eagles,12,@Rams,W 37 - 20
+Miami Dolphins,13,@Packers,L 17 - 30
+Miami Dolphins,14,Jets,W 32 - 26
+Miami Dolphins,15,@Texans,L 12 - 20
+Miami Dolphins,16,49ers,W 29 - 17
+Miami Dolphins,17,@Browns,W 20 - 3
+Miami Dolphins,18,@Jets,L 20 - 32
+Miami Dolphins,1,Jaguars,W 20 - 17
+Miami Dolphins,2,Bills,L 10 - 31
+Miami Dolphins,8,Cardinals,L 27 - 28
+Miami Dolphins,9,@Bills,L 27 - 30
+Miami Dolphins,10,@Rams,W 23 - 15
+Miami Dolphins,11,Raiders,W 34 - 19
+Miami Dolphins,12,Patriots,W 34 - 15
+Pittsburgh Steelers,13,@Bengals,W 44 - 38
+Pittsburgh Steelers,14,Browns,W 27 - 14
+Pittsburgh Steelers,15,@Eagles,L 13 - 27
+Pittsburgh Steelers,16,@Ravens,L 17 - 34
+Pittsburgh Steelers,17,Chiefs,L 10 - 29
+Pittsburgh Steelers,18,Bengals,L 17 - 19
+Pittsburgh Steelers,1,@Falcons,W 18 - 10
+Pittsburgh Steelers,2,@Broncos,W 13 - 6
+Pittsburgh Steelers,3,Chargers,W 20 - 10
+Pittsburgh Steelers,4,@Colts,L 24 - 27
+Pittsburgh Steelers,5,Cowboys,L 17 - 20
+Pittsburgh Steelers,6,@Raiders,W 32 - 13
+Pittsburgh Steelers,7,Jets,W 37 - 15
+Pittsburgh Steelers,8,Giants,W 26 - 18
+Pittsburgh Steelers,10,@Commanders,W 28 - 27
+Pittsburgh Steelers,11,Ravens,W 18 - 16
+Pittsburgh Steelers,12,@Browns,L 19 - 24
+Carolina Panthers,13,Buccaneers,L 23 - 26
+Carolina Panthers,14,@Eagles,L 16 - 22
+Carolina Panthers,15,Cowboys,L 14 - 30
+Carolina Panthers,16,Cardinals,W 36 - 30
+Carolina Panthers,17,@Buccaneers,L 14 - 48
+Carolina Panthers,18,@Falcons,W 44 - 38
+Carolina Panthers,1,@Saints,L 10 - 47
+Carolina Panthers,2,Chargers,L 3 - 26
+Carolina Panthers,3,@Raiders,W 36 - 22
+Carolina Panthers,4,Bengals,L 24 - 34
+Carolina Panthers,5,@Bears,L 10 - 36
+Carolina Panthers,6,Falcons,L 20 - 38
+Carolina Panthers,7,@Commanders,L 7 - 40
+Carolina Panthers,8,@Broncos,L 14 - 28
+Carolina Panthers,9,Saints,W 23 - 22
+Carolina Panthers,10,Giants,W 20 - 17
+Carolina Panthers,12,Chiefs,L 27 - 30
+New England Patriots,13,Colts,L 24 - 25
+New England Patriots,15,@Cardinals,L 17 - 30
+New England Patriots,16,@Bills,L 21 - 24
+New England Patriots,17,Chargers,L 7 - 40
+New England Patriots,18,Bills,W 23 - 16
+New England Patriots,1,@Bengals,W 16 - 10
+New England Patriots,2,Seahawks,L 20 - 23
+New England Patriots,3,@Jets,L 3 - 24
+New England Patriots,4,@49ers,L 13 - 30
+New England Patriots,5,Dolphins,L 10 - 15
+New England Patriots,6,Texans,L 21 - 41
+New England Patriots,7,@Jaguars,L 16 - 32
+New England Patriots,8,Jets,W 25 - 22
+New England Patriots,9,@Titans,L 17 - 20
+New England Patriots,10,@Bears,W 19 - 3
+New England Patriots,11,Rams,L 22 - 28
+New England Patriots,12,@Dolphins,L 15 - 34
+New Orleans Saints,13,Rams,L 14 - 21
+New Orleans Saints,14,@Giants,W 14 - 11
+New Orleans Saints,15,Commanders,L 19 - 20
+New Orleans Saints,16,@Packers,L 0 - 34
+New Orleans Saints,17,Raiders,L 10 - 25
+New Orleans Saints,18,@Buccaneers,L 19 - 27
+New Orleans Saints,1,Panthers,W 47 - 10
+New Orleans Saints,2,@Cowboys,W 44 - 19
+New Orleans Saints,3,Eagles,L 12 - 15
+New Orleans Saints,4,@Falcons,L 24 - 26
+New Orleans Saints,5,@Chiefs,L 13 - 26
+New Orleans Saints,6,Buccaneers,L 27 - 51
+New Orleans Saints,7,Broncos,L 10 - 33
+New Orleans Saints,8,@Chargers,L 8 - 26
+New Orleans Saints,9,@Panthers,L 22 - 23
+New Orleans Saints,10,Falcons,W 20 - 17
+New Orleans Saints,11,Browns,W 35 - 14
+Cleveland Browns,13,@Broncos,L 32 - 41
+Cleveland Browns,14,@Steelers,L 14 - 27
+Cleveland Browns,15,Chiefs,L 7 - 21
+Cleveland Browns,17,Dolphins,L 3 - 20
+Cleveland Browns,18,@Ravens,L 10 - 35
+Cleveland Browns,1,Cowboys,L 17 - 33
+Cleveland Browns,2,@Jaguars,W 18 - 13
+Cleveland Browns,3,Giants,L 15 - 21
+Cleveland Browns,4,@Raiders,L 16 - 20
+Cleveland Browns,5,@Commanders,L 13 - 34
+Cleveland Browns,6,@Eagles,L 16 - 20
+Cleveland Browns,7,Bengals,L 14 - 21
+Cleveland Browns,8,Ravens,W 29 - 24
+Cleveland Browns,9,Chargers,L 10 - 27
+Cleveland Browns,11,@Saints,L 14 - 35
+Cleveland Browns,12,Steelers,W 24 - 19
+Cleveland Browns,16,@Bengals,L 6 - 24
+Tennessee Titans,13,@Commanders,L 19 - 42
+Tennessee Titans,14,Jaguars,L 6 - 10
+Tennessee Titans,15,Bengals,L 27 - 37
+Tennessee Titans,16,@Colts,L 30 - 38
+Tennessee Titans,17,@Jaguars,L 13 - 20
+Tennessee Titans,18,Texans,L 14 - 23
+Tennessee Titans,1,@Bears,L 17 - 24
+Tennessee Titans,2,Jets,L 17 - 24
+Tennessee Titans,3,Packers,L 14 - 30
+Tennessee Titans,4,@Dolphins,W 31 - 12
+Tennessee Titans,6,Colts,L 17 - 20
+Tennessee Titans,7,@Bills,L 10 - 34
+Tennessee Titans,8,@Lions,L 14 - 52
+Tennessee Titans,9,Patriots,W 20 - 17
+Tennessee Titans,10,@Chargers,L 17 - 27
+Tennessee Titans,11,Vikings,L 13 - 23
+Tennessee Titans,12,@Texans,W 32 - 27
+New York Giants,1,Vikings,L 6 - 28
+New York Giants,2,@Commanders,L 18 - 21
+New York Giants,3,@Browns,W 21 - 15
+New York Giants,4,Cowboys,L 15 - 20
+New York Giants,5,@Seahawks,W 29 - 20
+New York Giants,6,Bengals,L 7 - 17
+New York Giants,7,Eagles,L 3 - 28
+New York Giants,8,@Steelers,L 18 - 26
+New York Giants,9,Commanders,L 22 - 27
+New York Giants,10,@Panthers,L 17 - 20
+Jacksonville Jaguars,13,Texans,L 20 - 23
+Jacksonville Jaguars,1,@Dolphins,L 17 - 20
+Jacksonville Jaguars,2,Browns,L 13 - 18
+Jacksonville Jaguars,3,@Bills,L 10 - 47
+Jacksonville Jaguars,4,@Texans,L 20 - 24
+Jacksonville Jaguars,5,Colts,W 37 - 34
+Jacksonville Jaguars,6,@Bears,L 16 - 35
+Jacksonville Jaguars,7,Patriots,W 32 - 16
+Jacksonville Jaguars,8,Packers,L 27 - 30
+Jacksonville Jaguars,9,@Eagles,L 23 - 28
+Jacksonville Jaguars,10,Vikings,L 7 - 12
+Jacksonville Jaguars,11,@Lions,L 6 - 52
+Las Vegas Raiders,1,@Chargers,L 10 - 22
+Las Vegas Raiders,2,@Ravens,W 26 - 23
+Las Vegas Raiders,3,Panthers,L 22 - 36
+Las Vegas Raiders,4,Browns,W 20 - 16
+Las Vegas Raiders,5,@Broncos,L 18 - 34
+Las Vegas Raiders,6,Steelers,L 13 - 32
+Las Vegas Raiders,7,@Rams,L 15 - 20
+Las Vegas Raiders,8,Chiefs,L 20 - 27
+Las Vegas Raiders,9,@Bengals,L 24 - 41
+Las Vegas Raiders,11,@Dolphins,L 19 - 34
+Las Vegas Raiders,12,Broncos,L 19 - 29
+Dallas Cowboys,1,@Browns,W 33 - 17
+Dallas Cowboys,2,Saints,L 19 - 44
+Dallas Cowboys,3,Ravens,L 25 - 28
+Dallas Cowboys,4,@Giants,W 20 - 15
+Dallas Cowboys,5,@Steelers,W 20 - 17
+Dallas Cowboys,6,Lions,L 9 - 47
+Dallas Cowboys,8,@49ers,L 24 - 30
+Dallas Cowboys,9,@Falcons,L 21 - 27
+Dallas Cowboys,10,Eagles,L 6 - 34
+Dallas Cowboys,13,Giants,W 27 - 20
+Dallas Cowboys,14,Bengals,L 20 - 27
+Dallas Cowboys,15,@Panthers,W 30 - 14
+Dallas Cowboys,16,Buccaneers,W 26 - 24
+Dallas Cowboys,17,@Eagles,L 7 - 41
+Dallas Cowboys,18,Commanders,L 19 - 23
+Dallas Cowboys,1,@Browns,W 33 - 17
+Dallas Cowboys,2,Saints,L 19 - 44
+Dallas Cowboys,3,Ravens,L 25 - 28
+Dallas Cowboys,4,@Giants,W 20 - 15
+Dallas Cowboys,5,@Steelers,W 20 - 17
+Dallas Cowboys,6,Lions,L 9 - 47
+Dallas Cowboys,8,@49ers,L 24 - 30
+Dallas Cowboys,9,@Falcons,L 21 - 27
+Dallas Cowboys,10,Eagles,L 6 - 34
+Dallas Cowboys,11,Texans,L 10 - 34
+Dallas Cowboys,12,@Commanders,W 34 - 26
+Indianapolis Colts,13,@Patriots,W 25 - 24
+Indianapolis Colts,15,@Broncos,L 13 - 31
+Indianapolis Colts,16,Titans,W 38 - 30
+Indianapolis Colts,17,@Giants,L 33 - 45
+Indianapolis Colts,18,Jaguars,W 26 - 23
+Indianapolis Colts,1,Texans,L 27 - 29
+Indianapolis Colts,2,@Packers,L 10 - 16
+Indianapolis Colts,3,Bears,W 21 - 16
+Indianapolis Colts,4,Steelers,W 27 - 24
+Indianapolis Colts,5,@Jaguars,L 34 - 37
+Indianapolis Colts,6,@Titans,W 20 - 17
+Indianapolis Colts,7,Dolphins,W 16 - 10
+Indianapolis Colts,8,@Texans,L 20 - 23
+Indianapolis Colts,9,@Vikings,L 13 - 21
+Indianapolis Colts,10,Bills,L 20 - 30
+Indianapolis Colts,11,@Jets,W 28 - 27
+Indianapolis Colts,12,Lions,L 6 - 24
+Indianapolis Colts,13,@Patriots,W 25 - 24
+Indianapolis Colts,15,@Broncos,L 13 - 31
+Indianapolis Colts,16,Titans,W 38 - 30
+Indianapolis Colts,17,@Giants,L 33 - 45
+Indianapolis Colts,18,Jaguars,W 26 - 23
+Indianapolis Colts,1,Texans,L 27 - 29
+Indianapolis Colts,2,@Packers,L 10 - 16
+Indianapolis Colts,3,Bears,W 21 - 16
+Indianapolis Colts,4,Steelers,W 27 - 24
+Indianapolis Colts,5,@Jaguars,L 34 - 37
+Indianapolis Colts,6,@Titans,W 20 - 17
+Indianapolis Colts,7,Dolphins,W 16 - 10
+Indianapolis Colts,8,@Texans,L 20 - 23
+Indianapolis Colts,9,@Vikings,L 13 - 21
+Indianapolis Colts,10,Bills,L 20 - 30
+Indianapolis Colts,11,@Jets,W 28 - 27
+Indianapolis Colts,12,Lions,L 6 - 24
+Jacksonville Jaguars,13,Texans,L 20 - 23
+Jacksonville Jaguars,14,@Titans,W 10 - 6
+Jacksonville Jaguars,15,Jets,L 25 - 32
+Jacksonville Jaguars,16,@Raiders,L 14 - 19
+Jacksonville Jaguars,17,Titans,W 20 - 13
+Jacksonville Jaguars,18,@Colts,L 23 - 26
+Jacksonville Jaguars,1,@Dolphins,L 17 - 20
+Jacksonville Jaguars,2,Browns,L 13 - 18
+Jacksonville Jaguars,3,@Bills,L 10 - 47
+Jacksonville Jaguars,4,@Texans,L 20 - 24
+Jacksonville Jaguars,5,Colts,W 37 - 34
+Jacksonville Jaguars,6,@Bears,L 16 - 35
+Jacksonville Jaguars,7,Patriots,W 32 - 16
+Jacksonville Jaguars,8,Packers,L 27 - 30
+Jacksonville Jaguars,9,@Eagles,L 23 - 28
+Jacksonville Jaguars,10,Vikings,L 7 - 12
+Jacksonville Jaguars,11,@Lions,L 6 - 52
+Las Vegas Raiders,13,@Chiefs,L 17 - 19
+Las Vegas Raiders,14,@Buccaneers,L 13 - 28
+Las Vegas Raiders,15,Falcons,L 9 - 15
+Las Vegas Raiders,16,Jaguars,W 19 - 14
+Las Vegas Raiders,17,@Saints,W 25 - 10
+Las Vegas Raiders,18,Chargers,L 20 - 34
+Las Vegas Raiders,1,@Chargers,L 10 - 22
+Las Vegas Raiders,2,@Ravens,W 26 - 23
+Las Vegas Raiders,3,Panthers,L 22 - 36
+Las Vegas Raiders,4,Browns,W 20 - 16
+Las Vegas Raiders,5,@Broncos,L 18 - 34
+Las Vegas Raiders,6,Steelers,L 13 - 32
+Las Vegas Raiders,7,@Rams,L 15 - 20
+Tennessee Titans,13,@Commanders,L 19 - 42
+Tennessee Titans,14,Jaguars,L 6 - 10
+Tennessee Titans,15,Bengals,L 27 - 37
+Tennessee Titans,16,@Colts,L 30 - 38
+Tennessee Titans,17,@Jaguars,L 13 - 20
+Tennessee Titans,18,Texans,L 14 - 23
+Tennessee Titans,1,@Bears,L 17 - 24
+Tennessee Titans,2,Jets,L 17 - 24
+Tennessee Titans,3,Packers,L 14 - 30
+Tennessee Titans,4,@Dolphins,W 31 - 12
+Tennessee Titans,6,Colts,L 17 - 20
+Tennessee Titans,7,@Bills,L 10 - 34
+Tennessee Titans,8,@Lions,L 14 - 52
+Tennessee Titans,9,Patriots,W 20 - 17
+Tennessee Titans,10,@Chargers,L 17 - 27
+Tennessee Titans,11,Vikings,L 13 - 23
+Tennessee Titans,12,@Texans,W 32 - 27
+New Orleans Saints,13,Rams,L 14 - 21
+New Orleans Saints,14,@Giants,W 14 - 11
+New Orleans Saints,15,Commanders,L 19 - 20
+New Orleans Saints,16,@Packers,L 0 - 34
+New Orleans Saints,17,Raiders,L 10 - 25
+New Orleans Saints,18,@Buccaneers,L 19 - 27
+New Orleans Saints,1,Panthers,W 47 - 10
+New Orleans Saints,2,@Cowboys,W 44 - 19
+New Orleans Saints,3,Eagles,L 12 - 15
+New Orleans Saints,4,@Falcons,L 24 - 26
+New Orleans Saints,5,@Chiefs,L 13 - 26
+New Orleans Saints,6,Buccaneers,L 27 - 51
+New Orleans Saints,7,Broncos,L 10 - 33
+New Orleans Saints,8,@Chargers,L 8 - 26
+New Orleans Saints,9,@Panthers,L 22 - 23
+New Orleans Saints,10,Falcons,W 20 - 17
+New Orleans Saints,11,Browns,W 35 - 14
+Cleveland Browns,1,Cowboys,L 17 - 33
+Cleveland Browns,2,@Jaguars,W 18 - 13
+Cleveland Browns,3,Giants,L 15 - 21
+Cleveland Browns,4,@Raiders,L 16 - 20
+Cleveland Browns,5,@Commanders,L 13 - 34
+Cleveland Browns,6,@Eagles,L 16 - 20
+Cleveland Browns,7,Bengals,L 14 - 21
+Pittsburgh Steelers,13,@Bengals,W 44 - 38
+Pittsburgh Steelers,14,Browns,W 27 - 14
+Pittsburgh Steelers,15,@Eagles,L 13 - 27
+Pittsburgh Steelers,16,@Ravens,L 17 - 34
+Pittsburgh Steelers,17,Chiefs,L 10 - 29
+Pittsburgh Steelers,18,Bengals,L 17 - 19
+Pittsburgh Steelers,1,@Falcons,W 18 - 10
+Pittsburgh Steelers,2,@Broncos,W 13 - 6
+Pittsburgh Steelers,3,Chargers,W 20 - 10
+Pittsburgh Steelers,4,@Colts,L 24 - 27
+Pittsburgh Steelers,5,Cowboys,L 17 - 20
+Pittsburgh Steelers,6,@Raiders,W 32 - 13
+Pittsburgh Steelers,7,Jets,W 37 - 15
+Pittsburgh Steelers,8,Giants,W 26 - 18
+Pittsburgh Steelers,10,@Commanders,W 28 - 27
+Pittsburgh Steelers,11,Ravens,W 18 - 16
+Pittsburgh Steelers,12,@Browns,L 19 - 24
+New York Giants,13,@Cowboys,L 20 - 27
+New York Giants,14,Saints,L 11 - 14
+New York Giants,15,Ravens,L 14 - 35
+New York Giants,16,@Falcons,L 7 - 34
+New York Giants,17,Colts,W 45 - 33
+New York Giants,18,@Eagles,L 13 - 20
+New York Giants,1,Vikings,L 6 - 28
+New York Giants,2,@Commanders,L 18 - 21
+New York Giants,3,@Browns,W 21 - 15
+New York Giants,4,Cowboys,L 15 - 20
+New York Giants,5,@Seahawks,W 29 - 20
+New York Giants,6,Bengals,L 7 - 17
+New York Giants,7,Eagles,L 3 - 28
+New York Giants,8,@Steelers,L 18 - 26
+New York Giants,9,Commanders,L 22 - 27
+New York Giants,10,@Panthers,L 17 - 20
+New York Giants,12,Buccaneers,L 7 - 30
+Carolina Panthers,13,Buccaneers,L 23 - 26
+Carolina Panthers,14,@Eagles,L 16 - 22
+Carolina Panthers,15,Cowboys,L 14 - 30
+Carolina Panthers,16,Cardinals,W 36 - 30
+Carolina Panthers,17,@Buccaneers,L 14 - 48
+Carolina Panthers,18,@Falcons,W 44 - 38
+Carolina Panthers,1,@Saints,L 10 - 47
+Carolina Panthers,2,Chargers,L 3 - 26
+Carolina Panthers,3,@Raiders,W 36 - 22
+Carolina Panthers,4,Bengals,L 24 - 34
+Carolina Panthers,5,@Bears,L 10 - 36
+Carolina Panthers,6,Falcons,L 20 - 38
+Carolina Panthers,7,@Commanders,L 7 - 40
+Carolina Panthers,8,@Broncos,L 14 - 28
+Carolina Panthers,9,Saints,W 23 - 22
+Carolina Panthers,10,Giants,W 20 - 17
+Carolina Panthers,12,Chiefs,L 27 - 30
+Miami Dolphins,13,@Packers,L 17 - 30
+Miami Dolphins,14,Jets,W 32 - 26
+Miami Dolphins,15,@Texans,L 12 - 20
+Miami Dolphins,16,49ers,W 29 - 17
+Miami Dolphins,17,@Browns,W 20 - 3
+Miami Dolphins,18,@Jets,L 20 - 32
+Miami Dolphins,3,@Seahawks,L 3 - 24
+Miami Dolphins,4,Titans,L 12 - 31
+Miami Dolphins,5,@Patriots,W 15 - 10
+Miami Dolphins,7,@Colts,L 10 - 16
+New England Patriots,13,Colts,L 24 - 25
+New England Patriots,15,@Cardinals,L 17 - 30
+New England Patriots,16,@Bills,L 21 - 24
+New England Patriots,17,Chargers,L 7 - 40
+New England Patriots,18,Bills,W 23 - 16
+New England Patriots,1,@Bengals,W 16 - 10
+New England Patriots,2,Seahawks,L 20 - 23
+New England Patriots,3,@Jets,L 3 - 24
+New England Patriots,4,@49ers,L 13 - 30
+New England Patriots,5,Dolphins,L 10 - 15
+New England Patriots,6,Texans,L 21 - 41
+New England Patriots,7,@Jaguars,L 16 - 32
+New England Patriots,8,Jets,W 25 - 22
+New England Patriots,9,@Titans,L 17 - 20
+New England Patriots,10,@Bears,W 19 - 3
+New England Patriots,11,Rams,L 22 - 28
+New England Patriots,12,@Dolphins,L 15 - 34
+Atlanta Falcons,13,Chargers,L 13 - 17
+Atlanta Falcons,14,@Vikings,L 21 - 42
+Atlanta Falcons,15,@Raiders,W 15 - 9
+Atlanta Falcons,16,Giants,W 34 - 7
+Atlanta Falcons,17,@Commanders,L 24 - 30
+Atlanta Falcons,18,Panthers,L 38 - 44
+Atlanta Falcons,1,Steelers,L 10 - 18
+Atlanta Falcons,2,@Eagles,W 22 - 21
+Atlanta Falcons,3,Chiefs,L 17 - 22
+Atlanta Falcons,4,Saints,W 26 - 24
+Atlanta Falcons,5,Buccaneers,W 36 - 30
+Atlanta Falcons,6,@Panthers,W 38 - 20
+Atlanta Falcons,7,Seahawks,L 14 - 34
+Atlanta Falcons,8,@Buccaneers,W 31 - 26
+Atlanta Falcons,9,Cowboys,W 27 - 21
+Atlanta Falcons,10,@Saints,L 17 - 20
+Atlanta Falcons,11,@Broncos,L 6 - 38
+Green Bay Packers,13,Dolphins,W 30 - 17
+Green Bay Packers,14,@Lions,L 31 - 34
+Green Bay Packers,15,@Seahawks,W 30 - 13
+Green Bay Packers,16,Saints,W 34 - 0
+Green Bay Packers,17,@Vikings,L 25 - 27
+Green Bay Packers,18,Bears,L 22 - 24
+Green Bay Packers,1,@Eagles,L 29 - 34
+Green Bay Packers,2,Colts,W 16 - 10
+Green Bay Packers,3,@Titans,W 30 - 14
+Green Bay Packers,4,Vikings,L 29 - 31
+Green Bay Packers,5,@Rams,W 24 - 19
+Green Bay Packers,6,Cardinals,W 34 - 13
+Green Bay Packers,7,Texans,W 24 - 22
+Green Bay Packers,8,@Jaguars,W 30 - 27
+Green Bay Packers,9,Lions,L 14 - 24
+Green Bay Packers,11,@Bears,W 20 - 19
+Green Bay Packers,12,49ers,W 38 - 10
+Las Vegas Raiders,13,@Chiefs,L 17 - 19
+Las Vegas Raiders,14,@Buccaneers,L 13 - 28
+Las Vegas Raiders,15,Falcons,L 9 - 15
+Las Vegas Raiders,16,Jaguars,W 19 - 14
+Las Vegas Raiders,17,@Saints,W 25 - 10
+Las Vegas Raiders,18,Chargers,L 20 - 34
+Las Vegas Raiders,8,Chiefs,L 20 - 27
+Las Vegas Raiders,9,@Bengals,L 24 - 41
+Las Vegas Raiders,11,@Dolphins,L 19 - 34
+Las Vegas Raiders,12,Broncos,L 19 - 29
+Cleveland Browns,13,@Broncos,L 32 - 41
+Cleveland Browns,14,@Steelers,L 14 - 27
+Cleveland Browns,15,Chiefs,L 7 - 21
+Cleveland Browns,17,Dolphins,L 3 - 20
+Cleveland Browns,18,@Ravens,L 10 - 35
+Cleveland Browns,1,Cowboys,L 17 - 33
+Cleveland Browns,2,@Jaguars,W 18 - 13
+Cleveland Browns,3,Giants,L 15 - 21
+Cleveland Browns,4,@Raiders,L 16 - 20
+Cleveland Browns,5,@Commanders,L 13 - 34
+Cleveland Browns,6,@Eagles,L 16 - 20
+Cleveland Browns,7,Bengals,L 14 - 21
+Cleveland Browns,8,Ravens,W 29 - 24
+Cleveland Browns,9,Chargers,L 10 - 27
+Cleveland Browns,11,@Saints,L 14 - 35
+Cleveland Browns,12,Steelers,W 24 - 19
+Cleveland Browns,16,@Bengals,L 6 - 24
+Washington Commanders,13,Titans,W 42 - 19
+Washington Commanders,15,@Saints,W 20 - 19
+Washington Commanders,16,Eagles,W 36 - 33
+Washington Commanders,17,Falcons,W 30 - 24
+Washington Commanders,18,@Cowboys,W 23 - 19
+Washington Commanders,5,Browns,W 34 - 13
+Washington Commanders,6,@Ravens,L 23 - 30
+Washington Commanders,7,Panthers,W 40 - 7
+Washington Commanders,8,Bears,W 18 - 15
+Washington Commanders,9,@Giants,W 27 - 22
+Washington Commanders,10,Steelers,L 27 - 28
+Washington Commanders,11,@Eagles,L 18 - 26
+Washington Commanders,12,Cowboys,L 26 - 34
+San Francisco 49ers,13,@Bills,L 10 - 35
+San Francisco 49ers,14,Bears,W 38 - 13
+San Francisco 49ers,15,Rams,L 6 - 12
+San Francisco 49ers,16,@Dolphins,L 17 - 29
+San Francisco 49ers,17,Lions,L 34 - 40
+San Francisco 49ers,18,@Cardinals,L 24 - 47
+San Francisco 49ers,1,Jets,W 32 - 19
+San Francisco 49ers,2,@Vikings,L 17 - 23
+San Francisco 49ers,3,@Rams,L 24 - 27
+San Francisco 49ers,4,Patriots,W 30 - 13
+San Francisco 49ers,5,Cardinals,L 23 - 24
+San Francisco 49ers,6,@Seahawks,W 36 - 24
+San Francisco 49ers,7,Chiefs,L 18 - 28
+San Francisco 49ers,8,Cowboys,W 30 - 24
+San Francisco 49ers,10,@Buccaneers,W 23 - 20
+San Francisco 49ers,11,Seahawks,L 17 - 20
+San Francisco 49ers,12,@Packers,L 10 - 38
+Los Angeles Rams,13,@Saints,W 21 - 14
+Los Angeles Rams,14,Bills,W 44 - 42
+Los Angeles Rams,15,@49ers,W 12 - 6
+Los Angeles Rams,16,@Jets,W 19 - 9
+Los Angeles Rams,17,Cardinals,W 13 - 9
+Los Angeles Rams,18,Seahawks,L 25 - 30
+Los Angeles Rams,3,49ers,W 27 - 24
+Los Angeles Rams,4,@Bears,L 18 - 24
+Los Angeles Rams,5,Packers,L 19 - 24
+Los Angeles Rams,7,Raiders,W 20 - 15
+Los Angeles Rams,8,Vikings,W 30 - 20
+Los Angeles Rams,9,@Seahawks,W 26 - 20
+Los Angeles Rams,10,Dolphins,L 15 - 23
+Los Angeles Rams,11,@Patriots,W 28 - 22
+Los Angeles Rams,12,Eagles,L 20 - 37
+Philadelphia Eagles,13,@Ravens,W 24 - 19
+Philadelphia Eagles,14,Panthers,W 22 - 16
+Philadelphia Eagles,15,Steelers,W 27 - 13
+Philadelphia Eagles,16,@Commanders,L 33 - 36
+Philadelphia Eagles,17,Cowboys,W 41 - 7
+Philadelphia Eagles,18,Giants,W 20 - 13
+Philadelphia Eagles,1,Packers,W 34 - 29
+Philadelphia Eagles,2,Falcons,L 21 - 22
+Philadelphia Eagles,3,@Saints,W 15 - 12
+Philadelphia Eagles,4,@Buccaneers,L 16 - 33
+Philadelphia Eagles,6,Browns,W 20 - 16
+Philadelphia Eagles,7,@Giants,W 28 - 3
+Philadelphia Eagles,8,@Bengals,W 37 - 17
+Philadelphia Eagles,9,Jaguars,W 28 - 23
+Philadelphia Eagles,10,@Cowboys,W 34 - 6
+Philadelphia Eagles,11,Commanders,W 26 - 18
+Philadelphia Eagles,12,@Rams,W 37 - 20
+Philadelphia Eagles,13,@Ravens,W 24 - 19
+Philadelphia Eagles,14,Panthers,W 22 - 16
+Philadelphia Eagles,15,Steelers,W 27 - 13
+Philadelphia Eagles,16,@Commanders,L 33 - 36
+Philadelphia Eagles,17,Cowboys,W 41 - 7
+Philadelphia Eagles,18,Giants,W 20 - 13
+Philadelphia Eagles,1,Packers,W 34 - 29
+Philadelphia Eagles,2,Falcons,L 21 - 22
+Philadelphia Eagles,3,@Saints,W 15 - 12
+Philadelphia Eagles,4,@Buccaneers,L 16 - 33
+Philadelphia Eagles,6,Browns,W 20 - 16
+Philadelphia Eagles,7,@Giants,W 28 - 3
+Philadelphia Eagles,8,@Bengals,W 37 - 17
+Philadelphia Eagles,9,Jaguars,W 28 - 23
+Philadelphia Eagles,10,@Cowboys,W 34 - 6
+Philadelphia Eagles,11,Commanders,W 26 - 18
+Philadelphia Eagles,12,@Rams,W 37 - 20
+New York Giants,13,@Cowboys,L 20 - 27
+New York Giants,15,Ravens,L 14 - 35
+New York Giants,16,@Falcons,L 7 - 34
+New York Giants,17,Colts,W 45 - 33
+New York Giants,18,@Eagles,L 13 - 20
+New York Giants,3,@Seahawks,L 3 - 24
+New York Giants,4,Titans,L 12 - 31
+New York Giants,5,@Patriots,W 15 - 10
+New York Giants,7,@Colts,L 10 - 16
+New York Giants,12,Buccaneers,L 7 - 30
+Dallas Cowboys,13,Giants,W 27 - 20
+Dallas Cowboys,14,Bengals,L 20 - 27
+Dallas Cowboys,15,@Panthers,W 30 - 14
+Dallas Cowboys,16,Buccaneers,W 26 - 24
+Dallas Cowboys,17,@Eagles,L 7 - 41
+Dallas Cowboys,18,Commanders,L 19 - 23
+Dallas Cowboys,1,@Browns,W 33 - 17
+Dallas Cowboys,2,Saints,L 19 - 44
+Dallas Cowboys,3,Ravens,L 25 - 28
+Dallas Cowboys,4,@Giants,W 20 - 15
+Dallas Cowboys,5,@Steelers,W 20 - 17
+Dallas Cowboys,6,Lions,L 9 - 47
+Dallas Cowboys,8,@49ers,L 24 - 30
+Dallas Cowboys,9,@Falcons,L 21 - 27
+Dallas Cowboys,10,Eagles,L 6 - 34
+Dallas Cowboys,11,Texans,L 10 - 34
+Dallas Cowboys,12,@Commanders,W 34 - 26
+New York Giants,13,@Cowboys,L 20 - 27
+New York Giants,14,Saints,L 11 - 14
+New York Giants,15,Ravens,L 14 - 35
+New York Giants,16,@Falcons,L 7 - 34
+New York Giants,17,Colts,W 45 - 33
+New York Giants,18,@Eagles,L 13 - 20
+New York Giants,1,Vikings,L 6 - 28
+New York Giants,2,@Commanders,L 18 - 21
+New York Giants,3,@Browns,W 21 - 15
+New York Giants,4,Cowboys,L 15 - 20
+New York Giants,5,@Seahawks,W 29 - 20
+New York Giants,6,Bengals,L 7 - 17
+New York Giants,7,Eagles,L 3 - 28
+New York Giants,8,@Steelers,L 18 - 26
+New York Giants,9,Commanders,L 22 - 27
+New York Giants,10,@Panthers,L 17 - 20
+New York Giants,12,Buccaneers,L 7 - 30
+New England Patriots,13,Colts,L 24 - 25
+New England Patriots,15,@Cardinals,L 17 - 30
+New England Patriots,16,@Bills,L 21 - 24
+New England Patriots,17,Chargers,L 7 - 40
+New England Patriots,18,Bills,W 23 - 16
+New England Patriots,1,@Bengals,W 16 - 10
+New England Patriots,2,Seahawks,L 20 - 23
+New England Patriots,3,@Jets,L 3 - 24
+New England Patriots,4,@49ers,L 13 - 30
+New England Patriots,5,Dolphins,L 10 - 15
+New England Patriots,6,Texans,L 21 - 41
+New England Patriots,7,@Jaguars,L 16 - 32
+New England Patriots,8,Jets,W 25 - 22
+New England Patriots,9,@Titans,L 17 - 20
+New England Patriots,10,@Bears,W 19 - 3
+New England Patriots,11,Rams,L 22 - 28
+New England Patriots,12,@Dolphins,L 15 - 34
+New Orleans Saints,13,Rams,L 14 - 21
+New Orleans Saints,14,@Giants,W 14 - 11
+New Orleans Saints,15,Commanders,L 19 - 20
+New Orleans Saints,16,@Packers,L 0 - 34
+New Orleans Saints,17,Raiders,L 10 - 25
+New Orleans Saints,18,@Buccaneers,L 19 - 27
+New Orleans Saints,1,Panthers,W 47 - 10
+New Orleans Saints,2,@Cowboys,W 44 - 19
+New Orleans Saints,3,Eagles,L 12 - 15
+New Orleans Saints,4,@Falcons,L 24 - 26
+New Orleans Saints,5,@Chiefs,L 13 - 26
+New Orleans Saints,6,Buccaneers,L 27 - 51
+New Orleans Saints,7,Broncos,L 10 - 33
+New Orleans Saints,8,@Chargers,L 8 - 26
+New Orleans Saints,9,@Panthers,L 22 - 23
+New Orleans Saints,10,Falcons,W 20 - 17
+New Orleans Saints,11,Browns,W 35 - 14
+Houston Texans,13,@Jaguars,W 23 - 20
+Houston Texans,15,Dolphins,W 20 - 12
+Houston Texans,16,@Chiefs,L 19 - 27
+Houston Texans,17,Ravens,L 2 - 31
+Houston Texans,18,@Titans,W 23 - 14
+Houston Texans,1,@Colts,W 29 - 27
+Houston Texans,2,Bears,W 19 - 13
+Houston Texans,3,@Vikings,L 7 - 34
+Houston Texans,4,Jaguars,W 24 - 20
+Houston Texans,5,Bills,W 23 - 20
+Houston Texans,6,@Patriots,W 41 - 21
+Houston Texans,7,@Packers,L 22 - 24
+Houston Texans,8,Colts,W 23 - 20
+Houston Texans,9,@Jets,L 13 - 21
+Houston Texans,10,Lions,L 23 - 26
+Houston Texans,11,@Cowboys,W 34 - 10
+Houston Texans,12,Titans,L 27 - 32
+San Francisco 49ers,13,@Bills,L 10 - 35
+San Francisco 49ers,14,Bears,W 38 - 13
+San Francisco 49ers,15,Rams,L 6 - 12
+San Francisco 49ers,16,@Dolphins,L 17 - 29
+San Francisco 49ers,17,Lions,L 34 - 40
+San Francisco 49ers,18,@Cardinals,L 24 - 47
+San Francisco 49ers,1,Jets,W 32 - 19
+San Francisco 49ers,2,@Vikings,L 17 - 23
+San Francisco 49ers,3,@Rams,L 24 - 27
+San Francisco 49ers,4,Patriots,W 30 - 13
+San Francisco 49ers,5,Cardinals,L 23 - 24
+San Francisco 49ers,6,@Seahawks,W 36 - 24
+San Francisco 49ers,7,Chiefs,L 18 - 28
+San Francisco 49ers,8,Cowboys,W 30 - 24
+San Francisco 49ers,10,@Buccaneers,W 23 - 20
+San Francisco 49ers,11,Seahawks,L 17 - 20
+San Francisco 49ers,12,@Packers,L 10 - 38
+Miami Dolphins,13,@Packers,L 17 - 30
+Miami Dolphins,14,Jets,W 32 - 26
+Miami Dolphins,17,@Browns,W 20 - 3
+Miami Dolphins,18,@Jets,L 20 - 32
+Miami Dolphins,1,Jaguars,W 20 - 17
+Miami Dolphins,2,Bills,L 10 - 31
+Miami Dolphins,3,@Seahawks,L 3 - 24
+Miami Dolphins,4,Titans,L 12 - 31
+Miami Dolphins,5,@Patriots,W 15 - 10
+Miami Dolphins,7,@Colts,L 10 - 16
+Miami Dolphins,8,Cardinals,L 27 - 28
+Miami Dolphins,9,@Bills,L 27 - 30
+Miami Dolphins,10,@Rams,W 23 - 15
+Miami Dolphins,11,Raiders,W 34 - 19
+Miami Dolphins,12,Patriots,W 34 - 15
+Buffalo Bills,13,49ers,W 35 - 10
+Buffalo Bills,14,@Rams,L 42 - 44
+Buffalo Bills,15,@Lions,W 48 - 42
+Buffalo Bills,16,Patriots,W 24 - 21
+Buffalo Bills,17,Jets,W 40 - 14
+Buffalo Bills,18,@Patriots,L 16 - 23
+Buffalo Bills,1,Cardinals,W 34 - 28
+Buffalo Bills,2,@Dolphins,W 31 - 10
+Buffalo Bills,3,Jaguars,W 47 - 10
+Buffalo Bills,4,@Ravens,L 10 - 35
+Buffalo Bills,5,@Texans,L 20 - 23
+Buffalo Bills,6,@Jets,W 23 - 20
+Buffalo Bills,7,Titans,W 34 - 10
+Buffalo Bills,8,@Seahawks,W 31 - 10
+Buffalo Bills,9,Dolphins,W 30 - 27
+Buffalo Bills,10,@Colts,W 30 - 20
+Buffalo Bills,11,Chiefs,W 30 - 21
+Cleveland Browns,14,@Steelers,L 14 - 27
+Cleveland Browns,15,Chiefs,L 7 - 21
+Cleveland Browns,17,Dolphins,L 3 - 20
+Cleveland Browns,18,@Ravens,L 10 - 35
+Cleveland Browns,8,Ravens,W 29 - 24
+Cleveland Browns,9,Chargers,L 10 - 27
+Cleveland Browns,11,@Saints,L 14 - 35
+Cleveland Browns,12,Steelers,W 24 - 19
+Cleveland Browns,16,@Bengals,L 6 - 24
+New York Jets,13,Seahawks,L 21 - 26
+New York Jets,14,@Dolphins,L 26 - 32
+New York Jets,15,@Jaguars,W 32 - 25
+New York Jets,16,Rams,L 9 - 19
+New York Jets,17,@Bills,L 14 - 40
+New York Jets,18,Dolphins,W 32 - 20
+New York Jets,1,@49ers,L 19 - 32
+New York Jets,2,@Titans,W 24 - 17
+New York Jets,3,Patriots,W 24 - 3
+New York Jets,4,Broncos,L 9 - 10
+New York Jets,5,@Vikings,L 17 - 23
+New York Jets,6,Bills,L 20 - 23
+New York Jets,7,@Steelers,L 15 - 37
+New York Jets,8,@Patriots,L 22 - 25
+New York Jets,9,Texans,W 21 - 13
+New York Jets,10,@Cardinals,L 6 - 31
+New York Jets,11,Colts,L 27 - 28
+Kansas City Chiefs,13,Raiders,W 19 - 17
+Kansas City Chiefs,14,Chargers,W 19 - 17
+Kansas City Chiefs,15,@Browns,W 21 - 7
+Kansas City Chiefs,16,Texans,W 27 - 19
+Kansas City Chiefs,17,@Steelers,W 29 - 10
+Kansas City Chiefs,18,@Broncos,L 0 - 38
+Kansas City Chiefs,1,Ravens,W 27 - 20
+Kansas City Chiefs,2,Bengals,W 26 - 25
+Kansas City Chiefs,3,@Falcons,W 22 - 17
+Kansas City Chiefs,4,@Chargers,W 17 - 10
+Kansas City Chiefs,5,Saints,W 26 - 13
+Kansas City Chiefs,7,@49ers,W 28 - 18
+Kansas City Chiefs,8,@Raiders,W 27 - 20
+Kansas City Chiefs,9,Buccaneers,W 30 - 24
+Kansas City Chiefs,10,Broncos,W 16 - 14
+Kansas City Chiefs,11,@Bills,L 21 - 30
+Kansas City Chiefs,12,@Panthers,W 30 - 27
+Detroit Lions,13,Bears,W 23 - 20
+Detroit Lions,14,Packers,W 34 - 31
+Detroit Lions,15,Bills,L 42 - 48
+Detroit Lions,16,@Bears,W 34 - 17
+Detroit Lions,17,@49ers,W 40 - 34
+Detroit Lions,18,Vikings,W 31 - 9
+Detroit Lions,1,Rams,W 26 - 20
+Detroit Lions,2,Buccaneers,L 16 - 20
+Detroit Lions,3,@Cardinals,W 20 - 13
+Detroit Lions,4,Seahawks,W 42 - 29
+Detroit Lions,6,@Cowboys,W 47 - 9
+Detroit Lions,7,@Vikings,W 31 - 29
+Detroit Lions,8,Titans,W 52 - 14
+Detroit Lions,9,@Packers,W 24 - 14
+Detroit Lions,10,@Texans,W 26 - 23
+Detroit Lions,11,Jaguars,W 52 - 6
+Detroit Lions,12,@Colts,W 24 - 6
+Minnesota Vikings,13,Cardinals,W 23 - 22
+Minnesota Vikings,14,Falcons,W 42 - 21
+Minnesota Vikings,15,Bears,W 30 - 12
+Minnesota Vikings,16,@Seahawks,W 27 - 24
+Minnesota Vikings,17,Packers,W 27 - 25
+Minnesota Vikings,18,@Lions,L 9 - 31
+Minnesota Vikings,1,@Giants,W 28 - 6
+Minnesota Vikings,2,49ers,W 23 - 17
+Minnesota Vikings,3,Texans,W 34 - 7
+Minnesota Vikings,4,@Packers,W 31 - 29
+Minnesota Vikings,5,Jets,W 23 - 17
+Minnesota Vikings,7,Lions,L 29 - 31
+Minnesota Vikings,8,@Rams,L 20 - 30
+Minnesota Vikings,9,Colts,W 21 - 13
+Minnesota Vikings,10,@Jaguars,W 12 - 7
+Minnesota Vikings,11,@Titans,W 23 - 13
+Minnesota Vikings,12,@Bears,W 30 - 27
+Los Angeles Chargers,13,@Falcons,W 17 - 13
+Los Angeles Chargers,14,@Chiefs,L 17 - 19
+Los Angeles Chargers,15,Buccaneers,L 17 - 40
+Los Angeles Chargers,17,@Patriots,W 40 - 7
+Los Angeles Chargers,18,@Raiders,W 34 - 20
+Los Angeles Chargers,16,Broncos,W 34 - 27
+Los Angeles Chargers,1,Raiders,W 22 - 10
+Los Angeles Chargers,2,@Panthers,W 26 - 3
+Los Angeles Chargers,3,@Steelers,L 10 - 20
+Los Angeles Chargers,4,Chiefs,L 10 - 17
+Los Angeles Chargers,6,@Broncos,W 23 - 16
+Los Angeles Chargers,7,@Cardinals,L 15 - 17
+Los Angeles Chargers,8,Saints,W 26 - 8
+Los Angeles Chargers,9,@Browns,W 27 - 10
+Los Angeles Chargers,10,Titans,W 27 - 17
+Los Angeles Chargers,11,Bengals,W 34 - 27
+Los Angeles Chargers,12,Ravens,L 23 - 30
+Buffalo Bills,13,49ers,W 35 - 10
+Buffalo Bills,15,@Lions,W 48 - 42
+Buffalo Bills,18,@Patriots,L 16 - 23
+Seattle Seahawks,13,@Jets,W 26 - 21
+Seattle Seahawks,14,@Cardinals,W 30 - 18
+Seattle Seahawks,15,Packers,L 13 - 30
+Seattle Seahawks,16,Vikings,L 24 - 27
+Seattle Seahawks,17,@Bears,W 6 - 3
+Seattle Seahawks,18,@Rams,W 30 - 25
+Seattle Seahawks,1,Broncos,W 26 - 20
+Seattle Seahawks,2,@Patriots,W 23 - 20
+Seattle Seahawks,3,Dolphins,W 24 - 3
+Seattle Seahawks,4,@Lions,L 29 - 42
+Seattle Seahawks,5,Giants,L 20 - 29
+Seattle Seahawks,6,49ers,L 24 - 36
+Seattle Seahawks,7,@Falcons,W 34 - 14
+Seattle Seahawks,8,Bills,L 10 - 31
+Seattle Seahawks,9,Rams,L 20 - 26
+Seattle Seahawks,11,@49ers,W 20 - 17
+Seattle Seahawks,12,Cardinals,W 16 - 6
+Pittsburgh Steelers,13,@Bengals,W 44 - 38
+Pittsburgh Steelers,14,Browns,W 27 - 14
+Pittsburgh Steelers,15,@Eagles,L 13 - 27
+Pittsburgh Steelers,16,@Ravens,L 17 - 34
+Pittsburgh Steelers,17,Chiefs,L 10 - 29
+Pittsburgh Steelers,18,Bengals,L 17 - 19
+Pittsburgh Steelers,1,@Falcons,W 18 - 10
+Pittsburgh Steelers,2,@Broncos,W 13 - 6
+Pittsburgh Steelers,3,Chargers,W 20 - 10
+Pittsburgh Steelers,4,@Colts,L 24 - 27
+Pittsburgh Steelers,5,Cowboys,L 17 - 20
+Pittsburgh Steelers,6,@Raiders,W 32 - 13
+Pittsburgh Steelers,7,Jets,W 37 - 15
+Pittsburgh Steelers,8,Giants,W 26 - 18
+Pittsburgh Steelers,10,@Commanders,W 28 - 27
+Pittsburgh Steelers,11,Ravens,W 18 - 16
+Pittsburgh Steelers,12,@Browns,L 19 - 24
+Baltimore Ravens,13,Eagles,L 19 - 24
+Baltimore Ravens,15,@Giants,W 35 - 14
+Baltimore Ravens,16,Steelers,W 34 - 17
+Baltimore Ravens,17,@Texans,W 31 - 2
+Baltimore Ravens,18,Browns,W 35 - 10
+Baltimore Ravens,1,@Chiefs,L 20 - 27
+Baltimore Ravens,2,Raiders,L 23 - 26
+Baltimore Ravens,3,@Cowboys,W 28 - 25
+Baltimore Ravens,4,Bills,W 35 - 10
+Baltimore Ravens,5,@Bengals,W 41 - 38
+Baltimore Ravens,6,Commanders,W 30 - 23
+Baltimore Ravens,7,@Buccaneers,W 41 - 31
+Baltimore Ravens,8,@Browns,L 24 - 29
+Baltimore Ravens,9,Broncos,W 41 - 10
+Baltimore Ravens,10,Bengals,W 35 - 34
+Baltimore Ravens,11,@Steelers,L 16 - 18
+Baltimore Ravens,12,@Chargers,W 30 - 23
+Chicago Bears,13,@Lions,L 20 - 23
+Chicago Bears,14,@49ers,L 13 - 38
+Chicago Bears,15,@Vikings,L 12 - 30
+Chicago Bears,16,Lions,L 17 - 34
+Chicago Bears,17,Seahawks,L 3 - 6
+Chicago Bears,18,@Packers,W 24 - 22
+Chicago Bears,1,Titans,W 24 - 17
+Chicago Bears,2,@Texans,L 13 - 19
+Chicago Bears,3,@Colts,L 16 - 21
+Chicago Bears,4,Rams,W 24 - 18
+Chicago Bears,5,Panthers,W 36 - 10
+Chicago Bears,6,Jaguars,W 35 - 16
+Chicago Bears,8,@Commanders,L 15 - 18
+Chicago Bears,9,@Cardinals,L 9 - 29
+Chicago Bears,10,Patriots,L 3 - 19
+Chicago Bears,11,Packers,L 19 - 20
+Chicago Bears,12,Vikings,L 27 - 30
+Arizona Cardinals,13,@Vikings,L 22 - 23
+Arizona Cardinals,14,Seahawks,L 18 - 30
+Arizona Cardinals,15,Patriots,W 30 - 17
+Arizona Cardinals,16,@Panthers,L 30 - 36
+Arizona Cardinals,17,@Rams,L 9 - 13
+Arizona Cardinals,18,49ers,W 47 - 24
+Arizona Cardinals,1,@Bills,L 28 - 34
+Arizona Cardinals,2,Rams,W 41 - 10
+Arizona Cardinals,3,Lions,L 13 - 20
+Arizona Cardinals,4,Commanders,L 14 - 42
+Arizona Cardinals,5,@49ers,W 24 - 23
+Arizona Cardinals,6,@Packers,L 13 - 34
+Arizona Cardinals,7,Chargers,W 17 - 15
+Arizona Cardinals,8,@Dolphins,W 28 - 27
+Arizona Cardinals,9,Bears,W 29 - 9
+Arizona Cardinals,10,Jets,W 31 - 6
+Arizona Cardinals,12,@Seahawks,L 6 - 16
+Tampa Bay Buccaneers,13,@Panthers,W 26 - 23
+Tampa Bay Buccaneers,14,Raiders,W 28 - 13
+Tampa Bay Buccaneers,15,@Chargers,W 40 - 17
+Tampa Bay Buccaneers,16,@Cowboys,L 24 - 26
+Tampa Bay Buccaneers,17,Panthers,W 48 - 14
+Tampa Bay Buccaneers,18,Saints,W 27 - 19
+Tampa Bay Buccaneers,1,Commanders,W 37 - 20
+Tampa Bay Buccaneers,2,@Lions,W 20 - 16
+Tampa Bay Buccaneers,3,Broncos,L 7 - 26
+Tampa Bay Buccaneers,4,Eagles,W 33 - 16
+Tampa Bay Buccaneers,5,@Falcons,L 30 - 36
+Tampa Bay Buccaneers,6,@Saints,W 51 - 27
+Tampa Bay Buccaneers,7,Ravens,L 31 - 41
+Tampa Bay Buccaneers,8,Falcons,L 26 - 31
+Tampa Bay Buccaneers,9,@Chiefs,L 24 - 30
+Tampa Bay Buccaneers,10,49ers,L 20 - 23
+Tampa Bay Buccaneers,12,@Giants,W 30 - 7
+Kansas City Chiefs,18,@Broncos,L 0 - 38

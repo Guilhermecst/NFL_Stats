@@ -1,0 +1,1182 @@
+team,week,completions,attempts,yards,rate
+Cincinnati Bengals,13,28,38,309,112.7
+Cincinnati Bengals,14,33,44,369,112.8
+Cincinnati Bengals,15,26,37,271,95.7
+Cincinnati Bengals,17,39,49,412,122.1
+Cincinnati Bengals,18,37,46,277,90
+Cincinnati Bengals,1,21,29,164,86
+Cincinnati Bengals,2,23,36,258,103.7
+Cincinnati Bengals,3,29,38,324,127.5
+Cincinnati Bengals,4,22,31,232,100.5
+Cincinnati Bengals,5,30,39,392,137
+Cincinnati Bengals,6,19,28,208,89.6
+Cincinnati Bengals,7,15,25,181,108.9
+Cincinnati Bengals,8,26,37,234,84.7
+Cincinnati Bengals,9,27,39,251,115.5
+Cincinnati Bengals,10,34,56,428,108.3
+Cincinnati Bengals,11,28,50,356,98.4
+Cincinnati Bengals,16,23,30,252,134.3
+Detroit Lions,13,21,34,221,100.2
+Detroit Lions,14,32,41,283,109.6
+Detroit Lions,15,38,59,494,118.9
+Detroit Lions,16,23,32,336,137
+Detroit Lions,17,26,34,303,132.4
+Detroit Lions,18,27,33,231,80.7
+Detroit Lions,1,18,28,217,85
+Detroit Lions,2,34,55,307,61.7
+Detroit Lions,3,18,23,199,113.6
+Detroit Lions,4,18,18,292,155.8
+Detroit Lions,6,18,25,315,153.8
+Detroit Lions,7,22,25,280,140
+Detroit Lions,8,12,15,85,129.9
+Detroit Lions,9,18,22,145,109.3
+Detroit Lions,10,15,30,240,59.7
+Detroit Lions,11,24,29,412,158.3
+Detroit Lions,12,26,36,269,93.4
+Tampa Bay Buccaneers,13,21,33,235,69.6
+Tampa Bay Buccaneers,14,18,29,295,101.9
+Tampa Bay Buccaneers,15,22,27,288,135.3
+Tampa Bay Buccaneers,16,31,43,303,97.3
+Tampa Bay Buccaneers,17,27,32,359,153
+Tampa Bay Buccaneers,18,21,32,221,93.4
+Tampa Bay Buccaneers,1,24,30,289,146.4
+Tampa Bay Buccaneers,2,12,19,185,90.9
+Tampa Bay Buccaneers,3,25,33,163,83.3
+Tampa Bay Buccaneers,4,30,47,347,100.2
+Tampa Bay Buccaneers,5,19,24,180,137.5
+Tampa Bay Buccaneers,6,24,36,325,97.6
+Tampa Bay Buccaneers,7,31,45,370,97.4
+Tampa Bay Buccaneers,8,37,50,330,94.6
+Tampa Bay Buccaneers,9,23,31,200,112.3
+Tampa Bay Buccaneers,10,18,29,116,82
+Tampa Bay Buccaneers,12,24,30,294,107.5
+Seattle Seahawks,13,20,31,206,94.3
+Seattle Seahawks,14,24,30,233,110.1
+Seattle Seahawks,15,15,19,149,77.4
+Seattle Seahawks,16,31,43,314,96.5
+Seattle Seahawks,17,17,23,160,92.7
+Seattle Seahawks,18,20,27,223,137.8
+Seattle Seahawks,1,18,25,171,87.2
+Seattle Seahawks,2,33,44,327,103.1
+Seattle Seahawks,3,26,34,289,86.5
+Seattle Seahawks,4,38,56,395,86.5
+Seattle Seahawks,5,28,40,284,98.3
+Seattle Seahawks,6,30,52,312,65.5
+Seattle Seahawks,7,18,28,207,110.3
+Seattle Seahawks,8,21,29,212,78.5
+Seattle Seahawks,9,21,34,363,90.7
+Seattle Seahawks,11,25,32,221,82.4
+Seattle Seahawks,12,22,31,254,92.7
+Minnesota Vikings,13,21,31,235,111.6
+Minnesota Vikings,14,22,28,347,157.9
+Minnesota Vikings,15,24,40,231,74.1
+Minnesota Vikings,16,22,35,246,112.3
+Minnesota Vikings,17,33,43,377,116.1
+Minnesota Vikings,18,18,41,166,55.5
+Minnesota Vikings,1,19,24,208,113.2
+Minnesota Vikings,2,17,26,268,109.1
+Minnesota Vikings,3,17,28,181,119.2
+Minnesota Vikings,4,20,28,275,123.4
+Minnesota Vikings,5,14,31,179,50.3
+Minnesota Vikings,7,22,27,259,103.6
+Minnesota Vikings,8,18,25,240,128.8
+Minnesota Vikings,9,28,34,290,107.1
+Minnesota Vikings,10,24,38,241,48.2
+Minnesota Vikings,11,20,32,246,107
+Minnesota Vikings,12,22,34,330,116
+Baltimore Ravens,13,23,36,237,101.3
+Baltimore Ravens,15,21,25,290,154.6
+Baltimore Ravens,16,15,23,207,115.4
+Baltimore Ravens,17,10,15,168,143.9
+Baltimore Ravens,18,16,32,217,92.8
+Baltimore Ravens,1,26,41,273,90.8
+Baltimore Ravens,2,21,34,247,81.4
+Baltimore Ravens,3,12,15,182,139.4
+Baltimore Ravens,4,13,18,156,135.4
+Baltimore Ravens,5,26,42,348,119.9
+Baltimore Ravens,6,20,26,323,114.7
+Baltimore Ravens,7,17,22,281,158.1
+Baltimore Ravens,8,23,38,289,101.8
+Baltimore Ravens,9,16,19,280,158.3
+Baltimore Ravens,10,25,33,290,141.4
+Baltimore Ravens,11,16,33,207,66.1
+Baltimore Ravens,12,16,22,177,126.5
+Kansas City Chiefs,13,26,46,306,84.2
+Kansas City Chiefs,14,24,37,210,88.8
+Kansas City Chiefs,15,19,38,159,78.7
+Kansas City Chiefs,16,28,41,260,93.6
+Kansas City Chiefs,17,29,38,320,127.1
+Kansas City Chiefs,18,,,,
+Kansas City Chiefs,1,20,28,291,101.9
+Kansas City Chiefs,2,18,25,151,80.6
+Kansas City Chiefs,3,26,39,217,87.2
+Kansas City Chiefs,4,19,29,245,89
+Kansas City Chiefs,5,28,39,331,86.6
+Kansas City Chiefs,7,16,27,154,44.4
+Kansas City Chiefs,8,27,38,262,96.6
+Kansas City Chiefs,9,34,44,291,116.8
+Kansas City Chiefs,10,28,42,266,92
+Kansas City Chiefs,11,23,33,196,90
+Kansas City Chiefs,12,27,37,269,120.2
+New York Jets,13,21,39,185,73.1
+New York Jets,14,27,39,339,104.5
+New York Jets,15,16,30,289,120
+New York Jets,16,28,42,256,91
+New York Jets,17,12,18,112,44
+New York Jets,18,23,36,274,112.5
+New York Jets,1,13,21,167,82.8
+New York Jets,2,18,30,176,98.8
+New York Jets,3,27,35,281,118.9
+New York Jets,4,24,42,225,72
+New York Jets,5,29,54,244,54.9
+New York Jets,6,23,35,294,99
+New York Jets,7,24,39,276,70
+New York Jets,8,17,28,233,111.2
+New York Jets,9,22,32,211,118.1
+New York Jets,10,22,35,151,72.4
+New York Jets,11,22,29,184,114.7
+Los Angeles Chargers,13,16,23,147,86.7
+Los Angeles Chargers,14,21,30,213,101.1
+Los Angeles Chargers,15,21,33,195,87.3
+Los Angeles Chargers,17,26,38,281,116.2
+Los Angeles Chargers,18,28,36,346,125.2
+Los Angeles Chargers,16,23,31,284,110.2
+Los Angeles Chargers,1,17,26,144,92.5
+Los Angeles Chargers,2,14,20,130,100
+Los Angeles Chargers,3,12,18,125,105.1
+Los Angeles Chargers,4,16,27,179,91.4
+Los Angeles Chargers,6,21,34,237,92.4
+Los Angeles Chargers,7,27,39,349,97.1
+Los Angeles Chargers,8,20,32,279,111.3
+Los Angeles Chargers,9,18,27,282,125.8
+Los Angeles Chargers,10,14,18,164,123.2
+Los Angeles Chargers,11,17,36,297,94.3
+Los Angeles Chargers,12,21,36,218,75.9
+San Francisco 49ers,13,11,18,94,74.8
+San Francisco 49ers,14,20,25,325,145.4
+San Francisco 49ers,15,14,31,142,45.4
+San Francisco 49ers,16,26,40,313,95.1
+San Francisco 49ers,17,27,35,377,116
+San Francisco 49ers,18,,,,
+San Francisco 49ers,1,19,29,231,89.9
+San Francisco 49ers,2,28,36,319,101.3
+San Francisco 49ers,3,22,30,292,137.1
+San Francisco 49ers,4,15,27,288,89.7
+San Francisco 49ers,5,19,35,244,62.1
+San Francisco 49ers,6,18,28,255,129.3
+San Francisco 49ers,7,17,31,212,36.7
+San Francisco 49ers,8,18,26,260,114.3
+San Francisco 49ers,10,25,36,353,119.3
+San Francisco 49ers,11,21,28,159,85.3
+San Francisco 49ers,12,,,,
+Arizona Cardinals,13,31,45,260,72.4
+Arizona Cardinals,14,25,38,259,80.9
+Arizona Cardinals,15,23,30,224,97.1
+Arizona Cardinals,16,20,32,202,77.9
+Arizona Cardinals,17,33,48,321,76.8
+Arizona Cardinals,18,25,35,242,128.5
+Arizona Cardinals,1,21,31,162,91.1
+Arizona Cardinals,2,17,21,266,158.3
+Arizona Cardinals,3,21,34,207,76.5
+Arizona Cardinals,4,16,22,142,104.7
+Arizona Cardinals,5,19,30,195,79.2
+Arizona Cardinals,6,22,32,214,97.7
+Arizona Cardinals,7,14,26,145,67
+Arizona Cardinals,8,26,36,307,116.3
+Arizona Cardinals,9,13,20,154,88.3
+Arizona Cardinals,10,22,24,266,126.7
+Arizona Cardinals,12,24,37,285,77
+Denver Broncos,13,18,35,294,65.6
+Denver Broncos,15,20,33,130,61.4
+Denver Broncos,17,24,31,219,114.8
+Denver Broncos,18,26,29,321,152.4
+Denver Broncos,16,29,40,263,106.6
+Denver Broncos,1,26,42,138,47.5
+Denver Broncos,2,20,35,246,55.2
+Denver Broncos,3,25,36,216,85
+Denver Broncos,4,12,25,60,67.9
+Denver Broncos,5,19,27,206,117.2
+Denver Broncos,6,19,33,216,84.9
+Denver Broncos,7,16,26,164,79.6
+Denver Broncos,8,28,37,284,124.2
+Denver Broncos,9,19,33,223,65.6
+Denver Broncos,10,22,30,215,115.3
+Denver Broncos,11,28,33,307,145
+Denver Broncos,12,25,42,273,94.6
+Los Angeles Rams,13,14,24,183,110.2
+Los Angeles Rams,14,23,30,320,132.6
+Los Angeles Rams,15,16,27,160,76.2
+Los Angeles Rams,16,14,19,110,83.2
+Los Angeles Rams,17,17,32,189,71
+Los Angeles Rams,18,,,,
+Los Angeles Rams,1,34,49,317,85.2
+Los Angeles Rams,2,19,27,216,94.1
+Los Angeles Rams,3,16,25,221,105.6
+Los Angeles Rams,4,20,29,224,77.4
+Los Angeles Rams,5,29,45,260,78
+Los Angeles Rams,7,14,23,154,62.6
+Los Angeles Rams,8,25,34,279,124.5
+Los Angeles Rams,9,25,44,298,83.3
+Los Angeles Rams,10,32,46,293,77.5
+Los Angeles Rams,11,18,27,295,142.8
+Los Angeles Rams,12,24,36,243,104.3
+Buffalo Bills,13,13,17,148,141.3
+Buffalo Bills,14,22,37,342,117.2
+Buffalo Bills,15,23,34,362,122.4
+Buffalo Bills,16,16,29,154,67.3
+Buffalo Bills,17,16,27,182,104.2
+Buffalo Bills,18,,,,
+Buffalo Bills,1,18,23,232,137.7
+Buffalo Bills,2,13,19,139,107.1
+Buffalo Bills,3,23,30,263,142.1
+Buffalo Bills,4,16,29,180,73.9
+Buffalo Bills,5,9,30,131,56.4
+Buffalo Bills,6,19,25,215,127.9
+Buffalo Bills,7,21,33,323,116.1
+Buffalo Bills,8,24,34,283,102.9
+Buffalo Bills,9,25,39,235,95.6
+Buffalo Bills,10,22,37,280,60.6
+Buffalo Bills,11,27,40,262,83.5
+Houston Texans,13,22,34,242,95.5
+Houston Texans,15,18,26,131,106.4
+Houston Texans,16,23,39,244,73
+Houston Texans,17,17,31,185,59.2
+Houston Texans,18,6,6,50,141
+Houston Texans,1,24,32,234,115.9
+Houston Texans,2,23,36,260,94.7
+Houston Texans,3,20,31,215,68.6
+Houston Texans,4,27,40,345,110.9
+Houston Texans,5,28,38,331,97.6
+Houston Texans,6,20,31,192,100.5
+Houston Texans,7,10,21,86,58.8
+Houston Texans,8,25,37,285,99.5
+Houston Texans,9,11,30,191,59.2
+Houston Texans,10,19,33,232,64.2
+Houston Texans,11,23,34,257,77.7
+Houston Texans,12,20,33,247,78.7
+Washington Commanders,13,25,30,206,114.7
+Washington Commanders,15,25,31,226,118.6
+Washington Commanders,16,24,39,258,99.2
+Washington Commanders,17,24,36,227,100.1
+Washington Commanders,18,6,12,38,56.9
+Washington Commanders,1,17,24,184,93.1
+Washington Commanders,2,23,29,226,99.1
+Washington Commanders,3,21,23,254,141.7
+Washington Commanders,4,26,30,233,96.2
+Washington Commanders,5,14,25,238,85.1
+Washington Commanders,6,24,35,269,110.3
+Washington Commanders,7,2,2,6,79.2
+Washington Commanders,8,21,38,326,92.6
+Washington Commanders,9,15,22,209,128.8
+Washington Commanders,10,17,34,202,68.5
+Washington Commanders,11,22,32,191,81.6
+Washington Commanders,12,25,38,275,82.7
+Chicago Bears,13,20,39,256,97.8
+Chicago Bears,14,17,23,134,116.9
+Chicago Bears,15,18,31,191,86.9
+Chicago Bears,16,26,40,334,107.7
+Chicago Bears,17,16,28,122,53
+Chicago Bears,18,21,29,148,95.2
+Chicago Bears,1,14,29,93,55.7
+Chicago Bears,2,23,37,174,51
+Chicago Bears,3,33,52,363,80.8
+Chicago Bears,4,17,23,157,106.6
+Chicago Bears,5,20,29,304,126.2
+Chicago Bears,6,23,29,226,124.4
+Chicago Bears,8,10,24,131,59.6
+Chicago Bears,9,22,41,217,68.8
+Chicago Bears,10,16,30,120,63.2
+Chicago Bears,11,23,31,231,95
+Chicago Bears,12,32,47,340,103.2
+Atlanta Falcons,13,24,39,245,40
+Atlanta Falcons,14,23,37,344,70.1
+Atlanta Falcons,15,11,17,112,78.6
+Atlanta Falcons,16,,,,
+Atlanta Falcons,17,,,,
+Atlanta Falcons,18,,,,
+Atlanta Falcons,1,16,26,155,59
+Atlanta Falcons,2,20,29,241,117.2
+Atlanta Falcons,3,20,29,230,89.7
+Atlanta Falcons,4,21,35,238,68.5
+Atlanta Falcons,5,42,58,509,114.8
+Atlanta Falcons,6,19,30,225,97.2
+Atlanta Falcons,7,24,35,232,72.6
+Atlanta Falcons,8,23,29,276,145.9
+Atlanta Falcons,9,19,24,222,144.8
+Atlanta Falcons,10,23,38,306,75.1
+Atlanta Falcons,11,18,27,173,68.9
+Green Bay Packers,13,21,28,274,129.2
+Green Bay Packers,14,12,20,206,111.7
+Green Bay Packers,15,20,27,229,123.8
+Green Bay Packers,16,16,28,182,88.7
+Green Bay Packers,17,19,30,185,91.7
+Green Bay Packers,18,7,12,69,74.6
+Green Bay Packers,1,17,34,260,83
+Green Bay Packers,2,,,,
+Green Bay Packers,3,,,,
+Green Bay Packers,4,32,54,389,83
+Green Bay Packers,5,15,26,224,95.7
+Green Bay Packers,6,22,32,258,119.5
+Green Bay Packers,7,24,33,220,95.5
+Green Bay Packers,8,14,22,196,73.3
+Green Bay Packers,9,23,39,273,69.7
+Green Bay Packers,11,13,17,261,113
+Green Bay Packers,12,13,23,163,107.7
+Philadelphia Eagles,13,11,19,118,93.8
+Philadelphia Eagles,14,14,21,108,110.8
+Philadelphia Eagles,15,25,32,290,125.3
+Philadelphia Eagles,16,1,4,11,39.6
+Philadelphia Eagles,17,,,,
+Philadelphia Eagles,18,,,,
+Philadelphia Eagles,1,20,34,278,80.3
+Philadelphia Eagles,2,23,30,183,88.6
+Philadelphia Eagles,3,29,38,311,88.8
+Philadelphia Eagles,4,18,30,158,85.1
+Philadelphia Eagles,6,16,25,264,126.1
+Philadelphia Eagles,7,10,14,114,119.4
+Philadelphia Eagles,8,16,20,236,132.5
+Philadelphia Eagles,9,18,24,230,132.3
+Philadelphia Eagles,10,14,20,202,115
+Philadelphia Eagles,11,18,28,221,88.5
+Philadelphia Eagles,12,15,22,179,108
+Miami Dolphins,13,37,46,365,114.2
+Miami Dolphins,14,33,47,331,104.1
+Miami Dolphins,15,29,40,196,60
+Miami Dolphins,16,22,34,215,92.2
+Miami Dolphins,17,,,,
+Miami Dolphins,18,,,,
+Miami Dolphins,1,23,37,338,101
+Miami Dolphins,2,17,25,145,56.7
+Miami Dolphins,8,28,38,234,97.9
+Miami Dolphins,9,25,28,231,124.8
+Miami Dolphins,10,20,28,207,89.4
+Miami Dolphins,11,28,36,288,127.8
+Miami Dolphins,12,29,40,317,128.8
+Pittsburgh Steelers,13,29,38,414,126.4
+Pittsburgh Steelers,14,15,26,158,101.1
+Pittsburgh Steelers,15,14,22,128,94.5
+Pittsburgh Steelers,16,22,33,217,92.6
+Pittsburgh Steelers,17,23,37,205,65.7
+Pittsburgh Steelers,18,17,31,148,78.4
+Pittsburgh Steelers,1,,,,
+Pittsburgh Steelers,2,,,,
+Pittsburgh Steelers,3,,,,
+Pittsburgh Steelers,4,,,,
+Pittsburgh Steelers,5,,,,
+Pittsburgh Steelers,6,,,,
+Pittsburgh Steelers,7,16,29,264,109
+Pittsburgh Steelers,8,20,28,278,114.9
+Pittsburgh Steelers,10,14,28,195,93.6
+Pittsburgh Steelers,11,23,36,205,67.5
+Pittsburgh Steelers,12,21,28,270,116.7
+Carolina Panthers,13,26,46,298,83.4
+Carolina Panthers,14,19,34,191,69.6
+Carolina Panthers,15,19,28,219,73.4
+Carolina Panthers,16,17,26,158,107.5
+Carolina Panthers,17,15,28,203,100.7
+Carolina Panthers,18,25,34,251,123.5
+Carolina Panthers,1,13,30,161,32.8
+Carolina Panthers,2,18,26,84,57.2
+Carolina Panthers,3,,,,
+Carolina Panthers,4,,,,
+Carolina Panthers,5,4,7,58,84.2
+Carolina Panthers,6,,,,
+Carolina Panthers,7,2,2,-4,79.2
+Carolina Panthers,8,24,37,224,76.9
+Carolina Panthers,9,16,26,171,77.6
+Carolina Panthers,10,15,25,126,86.4
+Carolina Panthers,12,21,35,263,92.9
+New England Patriots,13,24,30,238,96.9
+New England Patriots,15,19,23,202,99.6
+New England Patriots,16,22,36,261,90.2
+New England Patriots,17,12,22,117,84.8
+New England Patriots,18,0,1,0,39.6
+New England Patriots,1,,,,
+New England Patriots,2,,,,
+New England Patriots,3,4,8,22,56.2
+New England Patriots,4,,,,
+New England Patriots,5,,,,
+New England Patriots,6,20,33,243,88.3
+New England Patriots,7,26,37,276,109.7
+New England Patriots,8,3,6,23,59.7
+New England Patriots,9,29,41,206,69.8
+New England Patriots,10,15,25,184,79.4
+New England Patriots,11,29,39,282,100.6
+New England Patriots,12,22,37,222,74.4
+New Orleans Saints,13,24,37,184,85.9
+New Orleans Saints,14,20,31,219,82.6
+New Orleans Saints,15,,,,
+New Orleans Saints,16,,,,
+New Orleans Saints,17,,,,
+New Orleans Saints,18,,,,
+New Orleans Saints,1,19,23,200,142.5
+New Orleans Saints,2,11,16,243,125
+New Orleans Saints,3,14,25,142,69.1
+New Orleans Saints,4,28,36,239,82.8
+New Orleans Saints,5,18,28,165,89.1
+New Orleans Saints,6,,,,
+New Orleans Saints,7,,,,
+New Orleans Saints,8,,,,
+New Orleans Saints,9,18,31,236,92.9
+New Orleans Saints,10,16,25,269,126.9
+New Orleans Saints,11,21,27,248,129.6
+Cleveland Browns,13,34,58,497,88.1
+Cleveland Browns,14,24,41,212,68.3
+Cleveland Browns,15,16,25,146,40.2
+Cleveland Browns,17,,,,
+Cleveland Browns,18,,,,
+Cleveland Browns,1,,,,
+Cleveland Browns,2,,,,
+Cleveland Browns,3,,,,
+Cleveland Browns,4,,,,
+Cleveland Browns,5,1,1,16,118.8
+Cleveland Browns,6,,,,
+Cleveland Browns,7,5,11,67,95.6
+Cleveland Browns,8,27,41,334,115.3
+Cleveland Browns,9,26,46,235,50.5
+Cleveland Browns,11,30,46,395,106.7
+Cleveland Browns,12,18,27,219,76
+Cleveland Browns,16,,,,
+Tennessee Titans,13,18,37,212,84.5
+Tennessee Titans,14,19,32,168,73.4
+Tennessee Titans,15,8,12,89,49
+Tennessee Titans,16,,,,
+Tennessee Titans,17,,,,
+Tennessee Titans,18,9,17,175,108.7
+Tennessee Titans,1,19,32,127,52.5
+Tennessee Titans,2,19,28,192,84.2
+Tennessee Titans,3,26,34,260,92.8
+Tennessee Titans,4,3,4,25,51
+Tennessee Titans,6,16,27,95,63
+Tennessee Titans,7,,,,
+Tennessee Titans,8,,,,
+Tennessee Titans,9,,,,
+Tennessee Titans,10,18,23,175,127.4
+Tennessee Titans,11,17,31,295,84.7
+Tennessee Titans,12,18,24,278,123.3
+New York Giants,1,22,42,186,44.4
+New York Giants,2,16,28,178,100
+New York Giants,3,24,34,236,109.4
+New York Giants,4,29,40,281,81.4
+New York Giants,5,23,34,257,109.6
+New York Giants,6,22,41,205,57.5
+New York Giants,7,14,21,99,77.3
+New York Giants,8,24,38,264,72.7
+New York Giants,9,20,26,174,119.7
+New York Giants,10,22,37,190,50.5
+Jacksonville Jaguars,13,4,10,41,12.9
+Jacksonville Jaguars,1,12,21,162,97.7
+Jacksonville Jaguars,2,14,30,220,71.5
+Jacksonville Jaguars,3,21,38,178,65.5
+Jacksonville Jaguars,4,18,33,169,89.1
+Jacksonville Jaguars,5,28,34,371,119.5
+Jacksonville Jaguars,6,23,35,234,91.8
+Jacksonville Jaguars,7,15,20,193,121.5
+Jacksonville Jaguars,8,21,32,308,104.7
+Jacksonville Jaguars,9,16,31,169,40.9
+Jacksonville Jaguars,10,,,,
+Jacksonville Jaguars,11,,,,
+Las Vegas Raiders,1,25,33,257,95.1
+Las Vegas Raiders,2,30,38,276,94.7
+Las Vegas Raiders,3,18,28,214,84.5
+Las Vegas Raiders,4,14,24,130,73.3
+Las Vegas Raiders,5,12,17,137,74.5
+Las Vegas Raiders,6,,,,
+Las Vegas Raiders,7,15,34,154,21
+Las Vegas Raiders,8,24,30,209,117.9
+Las Vegas Raiders,9,10,17,124,81.5
+Las Vegas Raiders,11,30,43,282,93.4
+Las Vegas Raiders,12,25,42,230,72.5
+Dallas Cowboys,1,19,32,179,85.3
+Dallas Cowboys,2,27,39,293,78.3
+Dallas Cowboys,3,28,51,379,91.9
+Dallas Cowboys,4,22,27,221,125.5
+Dallas Cowboys,5,29,42,352,90.6
+Dallas Cowboys,6,17,33,178,42.2
+Dallas Cowboys,8,25,38,243,79.2
+Dallas Cowboys,9,18,24,133,101.6
+Dallas Cowboys,10,,,,
+Dallas Cowboys,13,21,36,195,82.5
+Dallas Cowboys,14,16,31,183,77.8
+Dallas Cowboys,15,18,29,214,119
+Dallas Cowboys,16,26,35,292,108.3
+Dallas Cowboys,17,15,28,147,50.7
+Dallas Cowboys,18,,,,
+Dallas Cowboys,1,,,,
+Dallas Cowboys,2,1,3,6,42.4
+Dallas Cowboys,3,,,,
+Dallas Cowboys,4,,,,
+Dallas Cowboys,5,,,,
+Dallas Cowboys,6,8,11,46,42.2
+Dallas Cowboys,8,,,,
+Dallas Cowboys,9,13,25,115,77.9
+Dallas Cowboys,10,13,23,45,61.7
+Dallas Cowboys,11,32,55,354,75.9
+Dallas Cowboys,12,24,32,247,117.6
+Indianapolis Colts,13,12,24,109,55.7
+Indianapolis Colts,15,17,38,172,36.3
+Indianapolis Colts,16,7,11,131,97.2
+Indianapolis Colts,17,,,,
+Indianapolis Colts,18,,,,
+Indianapolis Colts,1,9,19,212,101.2
+Indianapolis Colts,2,17,34,204,41.8
+Indianapolis Colts,3,10,20,167,39
+Indianapolis Colts,4,3,4,71,116.7
+Indianapolis Colts,5,,,,
+Indianapolis Colts,6,,,,
+Indianapolis Colts,7,10,24,129,59.2
+Indianapolis Colts,8,10,32,175,48.3
+Indianapolis Colts,9,,,,
+Indianapolis Colts,10,,,,
+Indianapolis Colts,11,20,30,272,106.5
+Indianapolis Colts,12,11,28,172,60.4
+Indianapolis Colts,13,,,,
+Indianapolis Colts,15,,,,
+Indianapolis Colts,16,,,,
+Indianapolis Colts,17,26,38,330,90.9
+Indianapolis Colts,18,23,40,264,85.8
+Indianapolis Colts,1,,,,
+Indianapolis Colts,2,,,,
+Indianapolis Colts,3,,,,
+Indianapolis Colts,4,16,26,168,105.9
+Indianapolis Colts,5,33,44,359,121.3
+Indianapolis Colts,6,22,38,189,77.6
+Indianapolis Colts,7,,,,
+Indianapolis Colts,8,,,,
+Indianapolis Colts,9,16,27,179,63.7
+Indianapolis Colts,10,26,35,272,79.7
+Indianapolis Colts,11,,,,
+Indianapolis Colts,12,,,,
+Jacksonville Jaguars,13,20,32,235,105.6
+Jacksonville Jaguars,14,23,31,220,66.6
+Jacksonville Jaguars,15,31,46,294,81.2
+Jacksonville Jaguars,16,25,39,247,90.4
+Jacksonville Jaguars,17,15,22,174,122.2
+Jacksonville Jaguars,18,20,32,225,80.9
+Jacksonville Jaguars,1,,,,
+Jacksonville Jaguars,2,,,,
+Jacksonville Jaguars,3,5,8,22,66.7
+Jacksonville Jaguars,4,,,,
+Jacksonville Jaguars,5,,,,
+Jacksonville Jaguars,6,1,1,6,91.7
+Jacksonville Jaguars,7,,,,
+Jacksonville Jaguars,8,,,,
+Jacksonville Jaguars,9,,,,
+Jacksonville Jaguars,10,14,22,111,38.3
+Jacksonville Jaguars,11,17,29,138,56.4
+Las Vegas Raiders,13,23,35,340,116.4
+Las Vegas Raiders,14,11,19,104,51.2
+Las Vegas Raiders,15,,,,
+Las Vegas Raiders,16,24,38,257,82.9
+Las Vegas Raiders,17,20,35,242,97.6
+Las Vegas Raiders,18,24,34,214,94.5
+Las Vegas Raiders,1,,,,
+Las Vegas Raiders,2,,,,
+Las Vegas Raiders,3,9,12,82,120.8
+Las Vegas Raiders,4,,,,
+Las Vegas Raiders,5,10,20,94,42.5
+Las Vegas Raiders,6,27,40,227,79.9
+Las Vegas Raiders,7,6,10,52,73.8
+Tennessee Titans,13,,,,
+Tennessee Titans,14,,,,
+Tennessee Titans,15,21,26,209,109.8
+Tennessee Titans,16,23,34,252,72.2
+Tennessee Titans,17,19,31,193,76.4
+Tennessee Titans,18,7,9,70,99.1
+Tennessee Titans,1,,,,
+Tennessee Titans,2,,,,
+Tennessee Titans,3,,,,
+Tennessee Titans,4,9,17,85,67
+Tennessee Titans,6,,,,
+Tennessee Titans,7,25,40,215,74.5
+Tennessee Titans,8,22,38,266,66.3
+Tennessee Titans,9,20,33,240,90.5
+Tennessee Titans,10,,,,
+Tennessee Titans,11,,,,
+Tennessee Titans,12,,,,
+New Orleans Saints,13,,,,
+New Orleans Saints,14,,,,
+New Orleans Saints,15,10,21,135,84.4
+New Orleans Saints,16,15,30,153,51.1
+New Orleans Saints,17,20,36,218,59.7
+New Orleans Saints,18,26,42,240,85.4
+New Orleans Saints,1,,,,
+New Orleans Saints,2,,,,
+New Orleans Saints,3,,,,
+New Orleans Saints,4,,,,
+New Orleans Saints,5,,,,
+New Orleans Saints,6,22,40,243,60.7
+New Orleans Saints,7,25,35,172,82.1
+New Orleans Saints,8,12,24,156,70.8
+New Orleans Saints,9,,,,
+New Orleans Saints,10,,,,
+New Orleans Saints,11,,,,
+Cleveland Browns,1,24,45,169,51.1
+Cleveland Browns,2,22,34,186,78.8
+Cleveland Browns,3,21,37,196,89.5
+Cleveland Browns,4,24,32,176,84.9
+Cleveland Browns,5,15,28,125,77.2
+Cleveland Browns,6,16,23,168,90.5
+Cleveland Browns,7,15,17,128,98
+Pittsburgh Steelers,13,,,,
+Pittsburgh Steelers,14,,,,
+Pittsburgh Steelers,15,,,,
+Pittsburgh Steelers,16,,,,
+Pittsburgh Steelers,17,,,,
+Pittsburgh Steelers,18,,,,
+Pittsburgh Steelers,1,17,23,156,91.9
+Pittsburgh Steelers,2,13,20,117,97.3
+Pittsburgh Steelers,3,25,32,245,96
+Pittsburgh Steelers,4,22,34,312,104
+Pittsburgh Steelers,5,15,27,131,93.3
+Pittsburgh Steelers,6,14,24,145,75.9
+Pittsburgh Steelers,7,,,,
+Pittsburgh Steelers,8,,,,
+Pittsburgh Steelers,10,,,,
+Pittsburgh Steelers,11,,,,
+Pittsburgh Steelers,12,0,1,0,39.6
+New York Giants,13,21,32,178,66.9
+New York Giants,14,21,49,227,48.6
+New York Giants,15,,,,
+New York Giants,16,22,39,210,58.7
+New York Giants,17,17,23,309,155.3
+New York Giants,18,22,29,138,82.3
+New York Giants,1,,,,
+New York Giants,2,,,,
+New York Giants,3,,,,
+New York Giants,4,,,,
+New York Giants,5,,,,
+New York Giants,6,,,,
+New York Giants,7,3,8,6,45.8
+New York Giants,8,,,,
+New York Giants,9,,,,
+New York Giants,10,,,,
+New York Giants,12,1,1,3,79.2
+Carolina Panthers,13,,,,
+Carolina Panthers,14,,,,
+Carolina Panthers,15,,,,
+Carolina Panthers,16,,,,
+Carolina Panthers,17,,,,
+Carolina Panthers,18,,,,
+Carolina Panthers,1,0,1,0,39.6
+Carolina Panthers,2,,,,
+Carolina Panthers,3,26,37,319,123.6
+Carolina Panthers,4,25,40,220,83.3
+Carolina Panthers,5,18,28,136,61
+Carolina Panthers,6,26,38,221,79
+Carolina Panthers,7,11,16,93,44
+Carolina Panthers,8,,,,
+Carolina Panthers,9,,,,
+Carolina Panthers,10,,,,
+Carolina Panthers,12,,,,
+Miami Dolphins,13,,,,
+Miami Dolphins,14,,,,
+Miami Dolphins,15,,,,
+Miami Dolphins,16,,,,
+Miami Dolphins,17,22,26,225,115.5
+Miami Dolphins,18,25,41,227,63.8
+Miami Dolphins,3,,,,
+Miami Dolphins,4,14,22,96,73.3
+Miami Dolphins,5,18,31,194,63.1
+Miami Dolphins,7,7,13,87,100.5
+New England Patriots,13,,,,
+New England Patriots,15,,,,
+New England Patriots,16,,,,
+New England Patriots,17,1,2,-2,56.2
+New England Patriots,18,,,,
+New England Patriots,1,15,24,121,75.2
+New England Patriots,2,15,27,149,83.7
+New England Patriots,3,12,18,98,80.3
+New England Patriots,4,19,32,168,70.8
+New England Patriots,5,18,34,160,65.8
+New England Patriots,6,,,,
+New England Patriots,7,,,,
+New England Patriots,8,15,24,132,77.1
+New England Patriots,9,,,,
+New England Patriots,10,,,,
+New England Patriots,11,,,,
+New England Patriots,12,,,,
+Atlanta Falcons,13,,,,
+Atlanta Falcons,14,,,,
+Atlanta Falcons,15,,,,
+Atlanta Falcons,16,18,27,202,73.4
+Atlanta Falcons,17,19,35,223,71.5
+Atlanta Falcons,18,21,38,312,88.9
+Atlanta Falcons,1,,,,
+Atlanta Falcons,2,,,,
+Atlanta Falcons,3,,,,
+Atlanta Falcons,4,,,,
+Atlanta Falcons,5,,,,
+Atlanta Falcons,6,,,,
+Atlanta Falcons,7,1,1,14,118.8
+Atlanta Falcons,8,,,,
+Atlanta Falcons,9,,,,
+Atlanta Falcons,10,,,,
+Atlanta Falcons,11,2,4,24,68.8
+Green Bay Packers,13,,,,
+Green Bay Packers,14,,,,
+Green Bay Packers,15,,,,
+Green Bay Packers,16,1,2,34,95.8
+Green Bay Packers,17,,,,
+Green Bay Packers,18,10,13,136,109.8
+Green Bay Packers,1,0,1,0,39.6
+Green Bay Packers,2,12,14,122,126.8
+Green Bay Packers,3,13,19,202,120.9
+Green Bay Packers,4,,,,
+Green Bay Packers,5,,,,
+Green Bay Packers,6,,,,
+Green Bay Packers,7,,,,
+Green Bay Packers,8,4,5,56,152.9
+Green Bay Packers,9,,,,
+Green Bay Packers,11,,,,
+Green Bay Packers,12,,,,
+Las Vegas Raiders,13,,,,
+Las Vegas Raiders,14,12,18,101,81
+Las Vegas Raiders,15,23,39,208,60.6
+Las Vegas Raiders,16,,,,
+Las Vegas Raiders,17,,,,
+Las Vegas Raiders,18,1,2,11,66.7
+Las Vegas Raiders,8,,,,
+Las Vegas Raiders,9,11,16,74,99.5
+Las Vegas Raiders,11,,,,
+Las Vegas Raiders,12,5,10,64,70.4
+Cleveland Browns,13,,,,
+Cleveland Browns,14,,,,
+Cleveland Browns,15,4,9,18,12
+Cleveland Browns,17,24,47,170,50.8
+Cleveland Browns,18,2,3,13,75.7
+Cleveland Browns,1,,,,
+Cleveland Browns,2,,,,
+Cleveland Browns,3,,,,
+Cleveland Browns,4,,,,
+Cleveland Browns,5,,,,
+Cleveland Browns,6,,,,
+Cleveland Browns,7,11,24,82,19.8
+Cleveland Browns,8,,,,
+Cleveland Browns,9,,,,
+Cleveland Browns,11,0,1,0,39.6
+Cleveland Browns,12,,,,
+Cleveland Browns,16,20,34,157,45.8
+Washington Commanders,13,,,,
+Washington Commanders,15,,,,
+Washington Commanders,16,,,,
+Washington Commanders,17,,,,
+Washington Commanders,18,15,18,161,141
+Washington Commanders,5,1,3,-2,42.4
+Washington Commanders,6,,,,
+Washington Commanders,7,18,23,205,132.8
+Washington Commanders,8,,,,
+Washington Commanders,9,,,,
+Washington Commanders,10,,,,
+Washington Commanders,11,,,,
+Washington Commanders,12,,,,
+San Francisco 49ers,13,,,,
+San Francisco 49ers,14,,,,
+San Francisco 49ers,15,,,,
+San Francisco 49ers,16,,,,
+San Francisco 49ers,17,3,4,35,101
+San Francisco 49ers,18,29,43,326,86
+San Francisco 49ers,1,,,,
+San Francisco 49ers,2,,,,
+San Francisco 49ers,3,,,,
+San Francisco 49ers,4,,,,
+San Francisco 49ers,5,,,,
+San Francisco 49ers,6,,,,
+San Francisco 49ers,7,,,,
+San Francisco 49ers,8,,,,
+San Francisco 49ers,10,,,,
+San Francisco 49ers,11,,,,
+San Francisco 49ers,12,,,,
+Los Angeles Rams,13,,,,
+Los Angeles Rams,14,,,,
+Los Angeles Rams,15,,,,
+Los Angeles Rams,16,,,,
+Los Angeles Rams,17,,,,
+Los Angeles Rams,18,27,41,334,97
+Los Angeles Rams,3,,,,
+Los Angeles Rams,4,,,,
+Los Angeles Rams,5,,,,
+Los Angeles Rams,7,,,,
+Los Angeles Rams,8,,,,
+Los Angeles Rams,9,,,,
+Los Angeles Rams,10,,,,
+Los Angeles Rams,11,,,,
+Los Angeles Rams,12,,,,
+Philadelphia Eagles,13,,,,
+Philadelphia Eagles,14,,,,
+Philadelphia Eagles,15,,,,
+Philadelphia Eagles,16,,,,
+Philadelphia Eagles,17,3,4,54,156.2
+Philadelphia Eagles,18,27,41,269,100.6
+Philadelphia Eagles,1,,,,
+Philadelphia Eagles,2,,,,
+Philadelphia Eagles,3,,,,
+Philadelphia Eagles,4,,,,
+Philadelphia Eagles,6,,,,
+Philadelphia Eagles,7,,,,
+Philadelphia Eagles,8,,,,
+Philadelphia Eagles,9,,,,
+Philadelphia Eagles,10,,,,
+Philadelphia Eagles,11,,,,
+Philadelphia Eagles,12,,,,
+Philadelphia Eagles,13,,,,
+Philadelphia Eagles,14,,,,
+Philadelphia Eagles,15,,,,
+Philadelphia Eagles,16,14,24,143,72
+Philadelphia Eagles,17,10,15,143,119.6
+Philadelphia Eagles,18,,,,
+Philadelphia Eagles,1,,,,
+Philadelphia Eagles,2,,,,
+Philadelphia Eagles,3,,,,
+Philadelphia Eagles,4,,,,
+Philadelphia Eagles,6,,,,
+Philadelphia Eagles,7,0,1,0,39.6
+Philadelphia Eagles,8,,,,
+Philadelphia Eagles,9,,,,
+Philadelphia Eagles,10,1,2,5,56.2
+Philadelphia Eagles,11,,,,
+Philadelphia Eagles,12,,,,
+New York Giants,13,,,,
+New York Giants,15,12,24,123,61.6
+New York Giants,16,,,,
+New York Giants,17,,,,
+New York Giants,18,,,,
+New York Giants,3,7,13,79,72.3
+New York Giants,4,,,,
+New York Giants,5,,,,
+New York Giants,7,8,13,74,77.1
+New York Giants,12,,,,
+Dallas Cowboys,13,,,,
+Dallas Cowboys,14,,,,
+Dallas Cowboys,15,,,,
+Dallas Cowboys,16,,,,
+Dallas Cowboys,17,1,1,1,79.2
+Dallas Cowboys,18,20,34,244,81
+Dallas Cowboys,1,,,,
+Dallas Cowboys,2,,,,
+Dallas Cowboys,3,,,,
+Dallas Cowboys,4,,,,
+Dallas Cowboys,5,,,,
+Dallas Cowboys,6,,,,
+Dallas Cowboys,8,,,,
+Dallas Cowboys,9,,,,
+Dallas Cowboys,10,4,6,21,32.6
+Dallas Cowboys,11,,,,
+Dallas Cowboys,12,,,,
+New York Giants,13,,,,
+New York Giants,14,,,,
+New York Giants,15,10,13,68,88
+New York Giants,16,,,,
+New York Giants,17,,,,
+New York Giants,18,,,,
+New York Giants,1,,,,
+New York Giants,2,,,,
+New York Giants,3,,,,
+New York Giants,4,,,,
+New York Giants,5,,,,
+New York Giants,6,,,,
+New York Giants,7,,,,
+New York Giants,8,,,,
+New York Giants,9,,,,
+New York Giants,10,,,,
+New York Giants,12,21,31,189,83.9
+New England Patriots,13,,,,
+New England Patriots,15,,,,
+New England Patriots,16,,,,
+New England Patriots,17,,,,
+New England Patriots,18,22,29,241,111.4
+New England Patriots,1,,,,
+New England Patriots,2,,,,
+New England Patriots,3,,,,
+New England Patriots,4,,,,
+New England Patriots,5,,,,
+New England Patriots,6,,,,
+New England Patriots,7,,,,
+New England Patriots,8,,,,
+New England Patriots,9,,,,
+New England Patriots,10,,,,
+New England Patriots,11,,,,
+New England Patriots,12,,,,
+New Orleans Saints,13,,,,
+New Orleans Saints,14,0,0,0,
+New Orleans Saints,15,4,10,49,16.2
+New Orleans Saints,16,,,,
+New Orleans Saints,17,,,,
+New Orleans Saints,18,,,,
+New Orleans Saints,1,0,1,0,39.6
+New Orleans Saints,2,,,,
+New Orleans Saints,3,,,,
+New Orleans Saints,4,,,,
+New Orleans Saints,5,2,7,17,39.6
+New Orleans Saints,6,,,,
+New Orleans Saints,7,3,4,38,143.8
+New Orleans Saints,8,9,17,122,76.1
+New Orleans Saints,9,,,,
+New Orleans Saints,10,,,,
+New Orleans Saints,11,,,,
+Houston Texans,13,,,,
+Houston Texans,15,,,,
+Houston Texans,16,,,,
+Houston Texans,17,1,1,5,87.5
+Houston Texans,18,12,22,128,71.8
+Houston Texans,1,,,,
+Houston Texans,2,,,,
+Houston Texans,3,7,12,79,78.1
+Houston Texans,4,,,,
+Houston Texans,5,,,,
+Houston Texans,6,0,1,0,39.6
+Houston Texans,7,,,,
+Houston Texans,8,,,,
+Houston Texans,9,,,,
+Houston Texans,10,,,,
+Houston Texans,11,,,,
+Houston Texans,12,,,,
+San Francisco 49ers,13,,,,
+San Francisco 49ers,14,0,1,0,0
+San Francisco 49ers,15,,,,
+San Francisco 49ers,16,,,,
+San Francisco 49ers,17,,,,
+San Francisco 49ers,18,,,,
+San Francisco 49ers,1,,,,
+San Francisco 49ers,2,,,,
+San Francisco 49ers,3,,,,
+San Francisco 49ers,4,,,,
+San Francisco 49ers,5,,,,
+San Francisco 49ers,6,,,,
+San Francisco 49ers,7,,,,
+San Francisco 49ers,8,,,,
+San Francisco 49ers,10,,,,
+San Francisco 49ers,11,,,,
+San Francisco 49ers,12,17,29,199,76.6
+Miami Dolphins,13,,,,
+Miami Dolphins,14,,,,
+Miami Dolphins,17,,,,
+Miami Dolphins,18,,,,
+Miami Dolphins,1,,,,
+Miami Dolphins,2,8,14,80,73.5
+Miami Dolphins,3,13,19,107,82.6
+Miami Dolphins,4,,,,
+Miami Dolphins,5,,,,
+Miami Dolphins,7,,,,
+Miami Dolphins,8,,,,
+Miami Dolphins,9,,,,
+Miami Dolphins,10,,,,
+Miami Dolphins,11,,,,
+Miami Dolphins,12,,,,
+Buffalo Bills,13,1,1,4,83.3
+Buffalo Bills,14,,,,
+Buffalo Bills,15,,,,
+Buffalo Bills,16,,,,
+Buffalo Bills,17,1,1,69,158.3
+Buffalo Bills,18,15,21,101,97.5
+Buffalo Bills,1,,,,
+Buffalo Bills,2,,,,
+Buffalo Bills,3,1,1,3,79.2
+Buffalo Bills,4,1,2,2,56.2
+Buffalo Bills,5,,,,
+Buffalo Bills,6,,,,
+Buffalo Bills,7,,,,
+Buffalo Bills,8,,,,
+Buffalo Bills,9,,,,
+Buffalo Bills,10,,,,
+Buffalo Bills,11,,,,
+Cleveland Browns,14,,,,
+Cleveland Browns,15,,,,
+Cleveland Browns,17,,,,
+Cleveland Browns,18,16,31,170,51.8
+Cleveland Browns,8,,,,
+Cleveland Browns,9,,,,
+Cleveland Browns,11,,,,
+Cleveland Browns,12,,,,
+Cleveland Browns,16,,,,
+New York Jets,13,,,,
+New York Jets,14,,,,
+New York Jets,15,,,,
+New York Jets,16,,,,
+New York Jets,17,11,14,83,131
+New York Jets,18,,,,
+New York Jets,1,6,8,36,122.9
+New York Jets,2,,,,
+New York Jets,3,,,,
+New York Jets,4,,,,
+New York Jets,5,,,,
+New York Jets,6,,,,
+New York Jets,7,,,,
+New York Jets,8,,,,
+New York Jets,9,,,,
+New York Jets,10,,,,
+New York Jets,11,,,,
+Kansas City Chiefs,13,,,,
+Kansas City Chiefs,14,,,,
+Kansas City Chiefs,15,2,2,20,108.3
+Kansas City Chiefs,16,,,,
+Kansas City Chiefs,17,,,,
+Kansas City Chiefs,18,10,17,98,75.1
+Kansas City Chiefs,1,,,,
+Kansas City Chiefs,2,,,,
+Kansas City Chiefs,3,,,,
+Kansas City Chiefs,4,,,,
+Kansas City Chiefs,5,,,,
+Kansas City Chiefs,7,,,,
+Kansas City Chiefs,8,,,,
+Kansas City Chiefs,9,,,,
+Kansas City Chiefs,10,,,,
+Kansas City Chiefs,11,,,,
+Kansas City Chiefs,12,,,,
+Detroit Lions,13,,,,
+Detroit Lions,14,,,,
+Detroit Lions,15,,,,
+Detroit Lions,16,,,,
+Detroit Lions,17,,,,
+Detroit Lions,18,,,,
+Detroit Lions,1,,,,
+Detroit Lions,2,,,,
+Detroit Lions,3,,,,
+Detroit Lions,4,,,,
+Detroit Lions,6,1,2,19,83.3
+Detroit Lions,7,,,,
+Detroit Lions,8,2,3,6,70.1
+Detroit Lions,9,,,,
+Detroit Lions,10,,,,
+Detroit Lions,11,3,4,37,103.1
+Detroit Lions,12,,,,
+Minnesota Vikings,13,,,,
+Minnesota Vikings,14,,,,
+Minnesota Vikings,15,,,,
+Minnesota Vikings,16,,,,
+Minnesota Vikings,17,,,,
+Minnesota Vikings,18,,,,
+Minnesota Vikings,1,,,,
+Minnesota Vikings,2,,,,
+Minnesota Vikings,3,,,,
+Minnesota Vikings,4,,,,
+Minnesota Vikings,5,1,1,24,118.8
+Minnesota Vikings,7,,,,
+Minnesota Vikings,8,,,,
+Minnesota Vikings,9,,,,
+Minnesota Vikings,10,,,,
+Minnesota Vikings,11,,,,
+Minnesota Vikings,12,1,1,14,118.8
+Los Angeles Chargers,13,,,,
+Los Angeles Chargers,14,,,,
+Los Angeles Chargers,15,1,1,4,83.3
+Los Angeles Chargers,17,0,2,0,39.6
+Los Angeles Chargers,18,,,,
+Los Angeles Chargers,16,,,,
+Los Angeles Chargers,1,,,,
+Los Angeles Chargers,2,,,,
+Los Angeles Chargers,3,2,2,24,116.7
+Los Angeles Chargers,4,,,,
+Los Angeles Chargers,6,,,,
+Los Angeles Chargers,7,,,,
+Los Angeles Chargers,8,,,,
+Los Angeles Chargers,9,,,,
+Los Angeles Chargers,10,,,,
+Los Angeles Chargers,11,,,,
+Los Angeles Chargers,12,,,,
+Buffalo Bills,13,,,,
+Buffalo Bills,15,,,,
+Buffalo Bills,18,3,11,28,39.6
+Seattle Seahawks,13,,,,
+Seattle Seahawks,14,,,,
+Seattle Seahawks,15,5,14,24,14.6
+Seattle Seahawks,16,,,,
+Seattle Seahawks,17,,,,
+Seattle Seahawks,18,,,,
+Seattle Seahawks,1,,,,
+Seattle Seahawks,2,,,,
+Seattle Seahawks,3,,,,
+Seattle Seahawks,4,,,,
+Seattle Seahawks,5,,,,
+Seattle Seahawks,6,,,,
+Seattle Seahawks,7,,,,
+Seattle Seahawks,8,,,,
+Seattle Seahawks,9,,,,
+Seattle Seahawks,11,,,,
+Seattle Seahawks,12,,,,
+Pittsburgh Steelers,13,,,,
+Pittsburgh Steelers,14,,,,
+Pittsburgh Steelers,15,,,,
+Pittsburgh Steelers,16,,,,
+Pittsburgh Steelers,17,,,,
+Pittsburgh Steelers,18,,,,
+Pittsburgh Steelers,1,,,,
+Pittsburgh Steelers,2,,,,
+Pittsburgh Steelers,3,,,,
+Pittsburgh Steelers,4,,,,
+Pittsburgh Steelers,5,1,1,19,118.8
+Pittsburgh Steelers,6,,,,
+Pittsburgh Steelers,7,,,,
+Pittsburgh Steelers,8,,,,
+Pittsburgh Steelers,10,,,,
+Pittsburgh Steelers,11,,,,
+Pittsburgh Steelers,12,,,,
+Baltimore Ravens,13,,,,
+Baltimore Ravens,15,0,0,0,
+Baltimore Ravens,16,,,,
+Baltimore Ravens,17,1,2,16,77.1
+Baltimore Ravens,18,,,,
+Baltimore Ravens,1,,,,
+Baltimore Ravens,2,,,,
+Baltimore Ravens,3,,,,
+Baltimore Ravens,4,1,1,1,79.2
+Baltimore Ravens,5,,,,
+Baltimore Ravens,6,,,,
+Baltimore Ravens,7,,,,
+Baltimore Ravens,8,,,,
+Baltimore Ravens,9,,,,
+Baltimore Ravens,10,,,,
+Baltimore Ravens,11,,,,
+Baltimore Ravens,12,,,,
+Chicago Bears,13,,,,
+Chicago Bears,14,1,1,6,91.7
+Chicago Bears,15,1,1,5,87.5
+Chicago Bears,16,,,,
+Chicago Bears,17,,,,
+Chicago Bears,18,,,,
+Chicago Bears,1,,,,
+Chicago Bears,2,,,,
+Chicago Bears,3,,,,
+Chicago Bears,4,,,,
+Chicago Bears,5,,,,
+Chicago Bears,6,,,,
+Chicago Bears,8,,,,
+Chicago Bears,9,,,,
+Chicago Bears,10,,,,
+Chicago Bears,11,,,,
+Chicago Bears,12,,,,
+Arizona Cardinals,13,,,,
+Arizona Cardinals,14,,,,
+Arizona Cardinals,15,2,2,8,83.3
+Arizona Cardinals,16,,,,
+Arizona Cardinals,17,,,,
+Arizona Cardinals,18,,,,
+Arizona Cardinals,1,,,,
+Arizona Cardinals,2,,,,
+Arizona Cardinals,3,,,,
+Arizona Cardinals,4,,,,
+Arizona Cardinals,5,,,,
+Arizona Cardinals,6,,,,
+Arizona Cardinals,7,,,,
+Arizona Cardinals,8,,,,
+Arizona Cardinals,9,,,,
+Arizona Cardinals,10,,,,
+Arizona Cardinals,12,,,,
+Tampa Bay Buccaneers,13,1,1,5,87.5
+Tampa Bay Buccaneers,14,,,,
+Tampa Bay Buccaneers,15,,,,
+Tampa Bay Buccaneers,16,,,,
+Tampa Bay Buccaneers,17,,,,
+Tampa Bay Buccaneers,18,,,,
+Tampa Bay Buccaneers,1,,,,
+Tampa Bay Buccaneers,2,,,,
+Tampa Bay Buccaneers,3,,,,
+Tampa Bay Buccaneers,4,,,,
+Tampa Bay Buccaneers,5,,,,
+Tampa Bay Buccaneers,6,,,,
+Tampa Bay Buccaneers,7,,,,
+Tampa Bay Buccaneers,8,,,,
+Tampa Bay Buccaneers,9,,,,
+Tampa Bay Buccaneers,10,,,,
+Tampa Bay Buccaneers,12,,,,
+Kansas City Chiefs,18,0,0,0,
