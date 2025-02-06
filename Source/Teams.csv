@@ -1,0 +1,33 @@
+team,team_id,conference,division,logo_team,logo_conference,team_color_hex,record
+Cincinnati Bengals,CIN,AFC,North,https://a.espncdn.com/i/teamlogos/nfl/500/cin.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#FB4F14,08/09/2025
+Detroit Lions,DET,NFC,North,https://a.espncdn.com/i/teamlogos/nfl/500/det.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#0076B6,02/15/2025
+Tampa Bay Buccaneers,TB,NFC,South,https://a.espncdn.com/i/teamlogos/nfl/500/tb.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#D50A0A,07/10/2025
+Seattle Seahawks,SEA,NFC,West,https://a.espncdn.com/i/teamlogos/nfl/500/sea.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#002244,07/10/2025
+Minnesota Vikings,MIN,NFC,North,https://a.espncdn.com/i/teamlogos/nfl/500/min.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#4F2683,03/14/2025
+Baltimore Ravens,BAL,AFC,North,https://a.espncdn.com/i/teamlogos/nfl/500/bal.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#241773,05/12/2025
+Kansas City Chiefs,KC,AFC,West,https://a.espncdn.com/i/teamlogos/nfl/500/kc.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#E31837,02/15/2025
+New York Jets,NYJ,AFC,East,https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#125740,12/05/2025
+Los Angeles Chargers,LAC,AFC,West,https://a.espncdn.com/i/teamlogos/nfl/500/lac.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#0073CF,06/11/2025
+San Francisco 49ers,SF,NFC,West,https://a.espncdn.com/i/teamlogos/nfl/500/sf.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#AA0000,11/06/2025
+Arizona Cardinals,ARI,NFC,West,https://a.espncdn.com/i/teamlogos/nfl/500/ari.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#97233F,09/08/2025
+Denver Broncos,DEN,AFC,West,https://a.espncdn.com/i/teamlogos/nfl/500/den.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#FB4F14,07/10/2025
+Los Angeles Rams,LAR,NFC,West,https://a.espncdn.com/i/teamlogos/nfl/500/lar.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#003594,07/10/2025
+Buffalo Bills,BUF,AFC,East,https://a.espncdn.com/i/teamlogos/nfl/500/buf.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#00338D,04/13/2025
+Houston Texans,HOU,AFC,South,https://a.espncdn.com/i/teamlogos/nfl/500/hou.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#A71930,07/10/2025
+Washington Commanders,WAS,NFC,East,https://a.espncdn.com/i/teamlogos/nfl/500/was.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#773141,05/12/2025
+Chicago Bears,CHI,NFC,North,https://a.espncdn.com/i/teamlogos/nfl/500/chi.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#0B162A,12/05/2025
+Atlanta Falcons,ATL,NFC,South,https://a.espncdn.com/i/teamlogos/nfl/500/atl.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#A71930,09/08/2025
+Green Bay Packers,GB,NFC,North,https://a.espncdn.com/i/teamlogos/nfl/500/gb.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#203731,06/11/2025
+Philadelphia Eagles,PHI,NFC,East,https://a.espncdn.com/i/teamlogos/nfl/500/phi.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#004C54,03/14/2025
+Miami Dolphins,MIA,AFC,East,https://a.espncdn.com/i/teamlogos/nfl/500/mia.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#008E97,09/08/2025
+Pittsburgh Steelers,PIT,AFC,North,https://a.espncdn.com/i/teamlogos/nfl/500/pit.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#FFB612,07/10/2025
+Carolina Panthers,CAR,NFC,South,https://a.espncdn.com/i/teamlogos/nfl/500/car.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#0085CA,12/05/2025
+New England Patriots,NE,AFC,East,https://a.espncdn.com/i/teamlogos/nfl/500/ne.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#C60C30,4-13
+New Orleans Saints,NO,NFC,South,https://a.espncdn.com/i/teamlogos/nfl/500/no.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#D3BC8D,12/05/2025
+Cleveland Browns,CLE,AFC,North,https://a.espncdn.com/i/teamlogos/nfl/500/cle.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#311D00,3-14
+Tennessee Titans,TEN,AFC,South,https://a.espncdn.com/i/teamlogos/nfl/500/ten.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#4B92DB,3-14
+New York Giants,NYG,NFC,East,https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#0B2265,4-17
+Jacksonville Jaguars,JAX,AFC,South,https://a.espncdn.com/i/teamlogos/nfl/500/jax.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#006778,4-13
+Las Vegas Raiders,LV,AFC,West,https://a.espncdn.com/i/teamlogos/nfl/500/lv.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#A5ACAF,4-13
+Dallas Cowboys,DAL,NFC,East,https://a.espncdn.com/i/teamlogos/nfl/500/dal.png,https://a.espncdn.com/i/teamlogos/nfl/500/nfc.png,#003594,10/07/2025
+Indianapolis Colts,IND,AFC,South,https://a.espncdn.com/i/teamlogos/nfl/500/ind.png,https://a.espncdn.com/i/teamlogos/nfl/500/afc.png,#002C5F,09/08/2025

@@ -1,198 +1,187 @@
-player_id,player_name,team,games,attempts,completions,pass_completion_percentage,yards,average,long_gain,touchdowns,interceptions,first_downs,first_downs_percentage,pass_20_yards_plus,sacks,sacks_yards,rate
-joe-burrow,Joe Burrow,Cincinnati Bengals,17,652,460,70.6,4918,7.5,70,43,9,253,38.8,49,48,278,108.5
-jared-goff,Jared Goff,Detroit Lions,17,539,390,72.4,4629,8.6,82,37,12,236,43.8,61,31,234,111.8
-baker-mayfield,Baker Mayfield,Tampa Bay Buccaneers,17,570,407,71.4,4500,7.9,57,41,16,224,39.3,58,40,248,106.8
-geno-smith,Geno Smith,Seattle Seahawks,17,578,407,70.4,4320,7.5,71,21,15,209,36.2,50,50,338,93.2
-sam-darnold,Sam Darnold,Minnesota Vikings,17,545,361,66.2,4319,7.9,97,35,12,207,38,62,48,335,102.5
-lamar-jackson,Lamar Jackson,Baltimore Ravens,17,474,316,66.7,4172,8.8,84,41,4,198,41.8,56,23,149,119.6
-patrick-mahomes,Patrick Mahomes,Kansas City Chiefs,16,581,392,67.5,3928,6.8,54,26,11,214,36.8,40,36,239,93.5
-aaron-rodgers,Aaron Rodgers,New York Jets,17,584,368,63,3897,6.7,71,28,11,192,32.9,51,40,302,90.5
-justin-herbert,Justin Herbert,Los Angeles Chargers,17,504,332,65.9,3870,7.7,66,23,3,175,34.7,54,41,242,101.7
-brock-purdy,Brock Purdy,San Francisco 49ers,15,455,300,65.9,3864,8.5,76,20,12,178,39.1,56,31,153,96.1
-kyler-murray,Kyler Murray,Arizona Cardinals,17,541,372,68.8,3851,7.1,60,21,11,191,35.3,43,30,220,93.5
-bo-nix,Bo Nix,Denver Broncos,17,567,376,66.3,3775,6.7,93,29,12,170,30,51,24,198,93.3
-matthew-stafford,Matthew Stafford,Los Angeles Rams,16,517,340,65.8,3762,7.3,69,20,8,176,34,45,28,213,93.6
-josh-allen,Josh Allen,Buffalo Bills,17,483,307,63.6,3731,7.7,64,28,6,173,35.8,54,14,63,101.4
-c-j-stroud,C.J. Stroud,Houston Texans,17,532,336,63.2,3727,7,67,20,12,187,35.2,42,52,408,87
-jayden-daniels,Jayden Daniels,Washington Commanders,17,480,331,69,3568,7.4,86,25,9,170,35.4,41,47,238,100.1
-caleb-williams,Caleb Williams,Chicago Bears,17,562,351,62.5,3541,6.3,47,20,6,171,30.4,40,68,466,87.8
-kirk-cousins,Kirk Cousins,Atlanta Falcons,14,453,303,66.9,3508,7.7,60,18,16,163,36,42,28,201,88.6
-jordan-love,Jordan Love,Green Bay Packers,15,425,268,63.1,3389,8,70,25,11,151,35.5,48,14,95,96.7
-jalen-hurts,Jalen Hurts,Philadelphia Eagles,15,361,248,68.7,2903,8,67,18,5,139,38.5,43,38,271,103.7
-tua-tagovailoa,Tua Tagovailoa,Miami Dolphins,11,399,291,72.9,2867,7.2,80,19,7,161,40.4,29,21,154,101.4
-russell-wilson,Russell Wilson,Pittsburgh Steelers,11,336,214,63.7,2482,7.4,46,16,5,112,33.3,40,33,219,95.6
-bryce-young,Bryce Young,Carolina Panthers,14,384,234,60.9,2403,6.3,83,15,9,117,30.5,30,29,186,82.2
-drake-maye,Drake Maye,New England Patriots,13,338,225,66.6,2276,6.7,40,15,10,112,33.1,25,34,229,88.1
-derek-carr,Derek Carr,New Orleans Saints,10,279,189,67.7,2145,7.7,71,15,5,93,33.3,27,8,48,101
-jameis-winston,Jameis Winston,Cleveland Browns,12,296,181,61.2,2121,7.2,89,13,12,103,34.8,24,24,130,80.6
-will-levis,Will Levis,Tennessee Titans,12,301,190,63.1,2091,7,98,13,12,86,28.6,25,41,233,81.4
-daniel-jones-x5302,Daniel Jones,New York Giants,10,341,216,63.3,2070,6.1,43,8,7,106,31.1,19,29,172,79.4
-daniel-jones-x5302,Daniel Jones,New York Giants,10,341,216,63.3,2070,6.1,43,8,7,106,31.1,19,29,172,79.4
-trevor-lawrence,Trevor Lawrence,Jacksonville Jaguars,10,284,172,60.6,2045,7.2,85,11,7,97,34.2,32,18,140,85.2
-gardner-minshew,Gardner Minshew,Las Vegas Raiders,10,306,203,66.3,2013,6.6,57,9,10,106,34.6,22,29,164,81
-dak-prescott,Dak Prescott,Dallas Cowboys,8,286,185,64.7,1978,6.9,65,11,8,87,30.4,23,21,112,86
-cooper-rush,Cooper Rush,Dallas Cowboys,12,308,187,60.7,1844,6,64,12,5,92,29.9,20,13,95,83.8
-anthony-richardson,Anthony Richardson,Indianapolis Colts,11,264,126,47.7,1814,6.9,69,8,12,73,27.6,28,14,115,61.6
-joe-flacco,Joe Flacco,Indianapolis Colts,8,248,162,65.3,1761,7.1,65,12,7,87,35.1,22,18,123,90.5
-mac-jones,Mac Jones,Jacksonville Jaguars,10,262,171,65.3,1672,6.4,62,8,8,77,29.4,22,14,100,80.5
-aidan-o-connell,Aidan O'Connell,Las Vegas Raiders,9,243,154,63.4,1612,6.6,58,8,4,78,32.1,20,10,82,86.6
-mason-rudolph,Mason Rudolph,Tennessee Titans,8,228,146,64,1530,6.7,47,9,9,78,34.2,18,11,71,80.1
-spencer-rattler,Spencer Rattler,New Orleans Saints,7,228,130,57,1317,5.8,41,4,5,62,27.2,16,22,136,70.4
-deshaun-watson,Deshaun Watson,Cleveland Browns,7,216,137,63.4,1148,5.3,35,5,3,49,22.7,11,33,191,79
-justin-fields,Justin Fields,Pittsburgh Steelers,10,161,106,65.8,1106,6.9,55,5,1,45,28,15,16,124,93.3
-drew-lock,Drew Lock,New York Giants,8,181,107,59.1,1071,5.9,59,6,5,45,24.9,11,12,88,75.5
-andy-dalton,Andy Dalton,Carolina Panthers,6,160,106,66.2,989,6.2,39,7,6,50,31.2,13,7,37,82
-tyler-huntley,Tyler Huntley,Miami Dolphins,5,133,86,64.7,829,6.2,25,3,3,45,33.8,6,15,92,80.1
-jacoby-brissett,Jacoby Brissett,New England Patriots,8,161,95,59,826,5.1,50,2,1,41,25.5,7,18,119,74.2
-michael-penix-jr,Michael Penix Jr.,Atlanta Falcons,5,105,61,58.1,775,7.4,42,3,3,35,33.3,12,4,14,78.9
-malik-willis,Malik Willis,Green Bay Packers,7,54,40,74.1,550,10.2,51,3,0,20,37,11,8,37,124.8
-desmond-ridder,Desmond Ridder,Las Vegas Raiders,6,85,52,61.2,458,5.4,28,2,2,24,28.2,7,10,64,73.6
-dorian-thompson-robinson,Dorian Thompson-Robinson,Cleveland Browns,7,118,61,51.7,440,3.7,29,0,6,20,17,1,8,47,39.5
-marcus-mariota,Marcus Mariota,Washington Commanders,3,44,34,77.3,364,8.3,29,4,0,22,50,4,3,29,131.2
-joshua-dobbs,Joshua Dobbs,San Francisco 49ers,2,47,32,68.1,361,7.7,36,2,2,18,38.3,5,2,28,87.3
-jimmy-garoppolo,Jimmy Garoppolo,Los Angeles Rams,1,41,27,65.8,334,8.2,50,2,1,16,39,6,3,15,97
-tanner-mckee,Tanner McKee,Philadelphia Eagles,2,45,30,66.7,323,7.2,25,4,0,17,37.8,2,2,17,117.2
-kenny-pickett,Kenny Pickett,Philadelphia Eagles,5,42,25,59.5,291,6.9,49,2,1,12,28.6,4,4,33,86.5
-tim-boyle,Tim Boyle,New York Giants,1,24,12,50,123,5.1,25,1,1,4,16.7,2,1,2,61.6
-tim-boyle,Tim Boyle,Miami Dolphins,2,26,15,57.7,153,5.9,30,0,0,7,26.9,1,1,9,74.7
-trey-lance,Trey Lance,Dallas Cowboys,4,41,25,61,266,6.5,33,0,1,13,31.7,4,4,23,69.8
-tommy-devito,Tommy DeVito,New York Giants,3,44,31,70.4,257,5.8,23,0,0,15,34.1,2,6,31,85.1
-joe-milton-iii,Joe Milton III,New England Patriots,1,29,22,75.9,241,8.3,48,1,0,14,48.3,2,0,0,111.4
-jake-haener,Jake Haener,New Orleans Saints,8,39,18,46.2,226,5.8,36,1,1,10,25.6,3,6,55,62.6
-davis-mills,Davis Mills,Houston Texans,5,36,20,55.6,212,5.9,25,0,0,9,25,3,2,18,72.9
-brandon-allen,Brandon Allen,San Francisco 49ers,3,30,17,56.7,199,6.6,31,1,2,8,26.7,5,2,2,60.3
-skylar-thompson,Skylar Thompson,Miami Dolphins,3,33,21,63.6,187,5.7,22,0,0,8,24.2,1,6,44,78.7
-mitchell-trubisky,Mitchell Trubisky,Buffalo Bills,9,26,19,73.1,179,6.9,69,2,0,7,26.9,2,0,0,117.3
-bailey-zappe,Bailey Zappe,Cleveland Browns,1,31,16,51.6,170,5.5,30,1,2,8,25.8,3,1,5,51.8
-tyrod-taylor,Tyrod Taylor,New York Jets,2,22,17,77.3,119,5.4,20,3,0,9,40.9,1,0,0,128.6
-carson-wentz,Carson Wentz,Kansas City Chiefs,3,19,12,63.2,118,6.2,25,0,0,5,26.3,2,4,22,80.6
-hendon-hooker,Hendon Hooker,Detroit Lions,3,9,6,66.7,62,6.9,21,0,0,3,33.3,1,1,9,86.3
-nick-mullens,Nick Mullens,Minnesota Vikings,5,2,2,100,38,19,24,0,0,2,100,1,0,0,118.8
-jaxon-smith-njigba,Jaxon Smith-Njigba,Seattle Seahawks,17,1,1,100,35,35,35,0,0,1,100,1,0,0,118.8
-a-j-cole,AJ Cole,Las Vegas Raiders,17,1,1,100,34,34,34,0,0,1,100,1,0,0,118.8
-courtland-sutton,Courtland Sutton,Denver Broncos,17,2,2,100,30,15,28,1,0,2,100,1,0,0,158.3
-taylor-heinicke,Taylor Heinicke,Los Angeles Chargers,4,5,3,60,28,5.6,18,0,0,1,20,0,3,28,75.4
-mike-white,Mike White,Buffalo Bills,1,11,3,27.3,28,2.6,14,0,0,1,9.1,0,0,0,39.6
-sam-howell,Sam Howell,Seattle Seahawks,2,14,5,35.7,24,1.7,12,0,1,1,7.1,0,4,21,14.6
-adonai-mitchell,Adonai Mitchell,Indianapolis Colts,17,1,1,100,24,24,24,0,0,1,100,1,0,0,118.8
-justin-jefferson,Justin Jefferson,Minnesota Vikings,17,1,1,100,22,22,22,0,0,1,100,1,0,0,118.8
-taysom-hill,Taysom Hill,New Orleans Saints,8,4,2,50,21,5.2,18,0,1,1,25,0,0,0,26
-ced-wilson,Cedrick Wilson Jr.,New Orleans Saints,15,1,1,100,21,21,21,1,0,1,100,1,1,3,158.3
-kyle-allen,Kyle Allen,Pittsburgh Steelers,1,1,1,100,19,19,19,0,0,1,100,0,0,0,118.8
-jalen-coker,Jalen Coker,Carolina Panthers,11,1,1,100,19,19,19,0,0,1,100,0,0,0,118.8
-jack-fox-x0892,Jack Fox,Detroit Lions,17,1,1,100,17,17,17,0,0,1,100,0,0,0,118.8
-josh-johnson,Josh Johnson,Baltimore Ravens,6,3,2,66.7,17,5.7,16,0,0,1,33.3,0,1,5,81.2
-stefon-diggs,Stefon Diggs,Houston Texans,8,1,1,100,13,13,13,0,0,1,100,0,0,0,118.8
-tyson-bagent,Tyson Bagent,Chicago Bears,4,2,2,100,11,5.5,6,0,0,1,50,0,0,0,89.6
-clayton-tune,Clayton Tune,Arizona Cardinals,6,2,2,100,8,4,7,0,0,0,0,0,0,0,83.3
-amon-ra-st-brown,Amon-Ra St. Brown,Detroit Lions,17,1,1,100,7,7,7,1,0,1,100,0,0,0,135.4
-kyle-trask,Kyle Trask,Tampa Bay Buccaneers,4,1,1,100,5,5,5,0,0,0,0,0,0,0,87.5
-bryan-anger,Bryan Anger,Dallas Cowboys,17,2,1,50,4,2,4,0,0,0,0,0,0,0,56.2
-riley-dixon,Riley Dixon,Denver Broncos,17,1,1,100,3,3,3,0,0,0,0,0,0,0,79.2
-david-montgomery,David Montgomery,Detroit Lions,14,1,1,100,3,3,3,1,0,1,100,0,0,0,118.8
-j-k-scott,J.K. Scott,Los Angeles Chargers,17,1,1,100,3,3,3,0,0,0,0,0,0,0,79.2
-keenan-allen,Keenan Allen,Chicago Bears,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0
-tutu-atwell,Tutu Atwell,Los Angeles Rams,17,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6
-saquon-barkley,Saquon Barkley,Philadelphia Eagles,16,0,0,,0,,0,0,0,0,,0,1,2,
-kendrick-bourne,Kendrick Bourne,New England Patriots,12,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6
-tyler-boyd,Tyler Boyd,Tennessee Titans,16,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6
-dyami-brown,Dyami Brown,Washington Commanders,16,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6
-ty-chandler,Ty Chandler,Minnesota Vikings,17,0,0,,0,,0,0,0,0,,0,1,1,
-johnny-hekker,Johnny Hekker,Carolina Panthers,17,2,0,0,0,0,0,0,0,0,0,0,0,0,39.6
-miles-killebrew,Miles Killebrew,Pittsburgh Steelers,17,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6
-allen-lazard,Allen Lazard,New York Jets,12,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6
-jakobi-meyers,Jakobi Meyers,Las Vegas Raiders,15,0,0,,0,,0,0,0,0,,0,1,10,
-joe-mixon,Joe Mixon,Houston Texans,14,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6
-darnell-mooney,Darnell Mooney,Atlanta Falcons,16,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6
-d-j-moore,DJ Moore,Chicago Bears,17,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6
-malik-nabers,Malik Nabers,New York Giants,15,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6
-chris-oladokun,Chris Oladokun,Kansas City Chiefs,1,0,0,,0,,0,0,0,0,,0,1,5,
-ricky-pearsall,Ricky Pearsall,San Francisco 49ers,11,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6
-bradley-pinion,Bradley Pinion,Atlanta Falcons,17,0,0,,0,,0,0,0,0,,0,0,0,
-deebo-samuel,Deebo Samuel Sr.,San Francisco 49ers,15,0,0,,0,,0,0,0,0,,0,1,4,
-penei-sewell,Penei Sewell,Detroit Lions,17,0,0,,0,,0,0,0,0,,0,1,1,
-derrick-henry,Derrick Henry,Baltimore Ravens,17,,,,,,,,,,,,,,
-josh-jacobs-x3315,Josh Jacobs,Green Bay Packers,17,,,,,,,,,,,,,,
-najee-harris-x2665,Najee Harris,Pittsburgh Steelers,17,,,,,,,,,,,,,,
-d-andre-swift,D'Andre Swift,Chicago Bears,17,,,,,,,,,,,,,,
-alvin-kamara,Alvin Kamara,New Orleans Saints,14,,,,,,,,,,,,,,
-devon-achane,De'Von Achane,Miami Dolphins,17,,,,,,,,,,,,,,
-kareem-hunt,Kareem Hunt,Kansas City Chiefs,13,,,,,,,,,,,,,,
-cam-akers,Cam Akers,Minnesota Vikings,12,,,,,,,,,,,,,,
-cam-akers,Cam Akers,Houston Texans,5,,,,,,,,,,,,,,
-devin-singletary,Devin Singletary,New York Giants,15,,,,,,,,,,,,,,
-kenneth-gainwell,Kenneth Gainwell,Philadelphia Eagles,17,,,,,,,,,,,,,,
-ezekiel-elliott,Ezekiel Elliott,Dallas Cowboys,15,,,,,,,,,,,,,,
-ezekiel-elliott,Ezekiel Elliott,Dallas Cowboys,15,,,,,,,,,,,,,,
-christian-mccaffrey,Christian McCaffrey,San Francisco 49ers,4,,,,,,,,,,,,,,
-cordarrelle-patterson,Cordarrelle Patterson,Pittsburgh Steelers,13,,,,,,,,,,,,,,
-ceedee-lamb,CeeDee Lamb,Dallas Cowboys,15,,,,,,,,,,,,,,
-tyreek-hill,Tyreek Hill,Miami Dolphins,17,,,,,,,,,,,,,,
-deejay-dallas,DeeJay Dallas,Arizona Cardinals,17,,,,,,,,,,,,,,
-tank-dell,Tank Dell,Houston Texans,14,,,,,,,,,,,,,,
-ja-marr-chase,Ja'Marr Chase,Cincinnati Bengals,17,,,,,,,,,,,,,,
-dalvin-cook,Dalvin Cook,Dallas Cowboys,2,,,,,,,,,,,,,,
-cooper-kupp,Cooper Kupp,Los Angeles Rams,12,,,,,,,,,,,,,,
-jarrett-stidham,Jarrett Stidham,Denver Broncos,4,,,,,,,,,,,,,,
-garrett-wilson,Garrett Wilson,New York Jets,17,,,,,,,,,,,,,,
-chris-godwin,Chris Godwin,Tampa Bay Buccaneers,7,,,,,,,,,,,,,,
-tanner-hudson,Tanner Hudson,Cincinnati Bengals,11,,,,,,,,,,,,,,
-travis-kelce,Travis Kelce,Kansas City Chiefs,16,,,,,,,,,,,,,,
-jalen-reeves-maybin,Jalen Reeves-Maybin,Detroit Lions,10,,,,,,,,,,,,,,
-steven-sims,Steven Sims,Baltimore Ravens,2,,,,,,,,,,,,,,
-steven-sims,Steven Sims,Houston Texans,7,,,,,,,,,,,,,,
-jonnu-smith,Jonnu Smith,Miami Dolphins,17,,,,,,,,,,,,,,
-jake-browning,Jake Browning,Cincinnati Bengals,3,,,,,,,,,,,,,,
-drake-london,Drake London,Atlanta Falcons,17,,,,,,,,,,,,,,
-kadarius-toney,Kadarius Toney,Cleveland Browns,3,,,,,,,,,,,,,,
-davante-adams,Davante Adams,New York Jets,11,,,,,,,,,,,,,,
-davante-adams,Davante Adams,Las Vegas Raiders,3,,,,,,,,,,,,,,
-a-j-brown,A.J. Brown,Philadelphia Eagles,13,,,,,,,,,,,,,,
-mike-gesicki,Mike Gesicki,Cincinnati Bengals,17,,,,,,,,,,,,,,
-deandre-hopkins,DeAndre Hopkins,Kansas City Chiefs,10,,,,,,,,,,,,,,
-deandre-hopkins,DeAndre Hopkins,Tennessee Titans,6,,,,,,,,,,,,,,
-amari-cooper,Amari Cooper,Buffalo Bills,8,,,,,,,,,,,,,,
-amari-cooper,Amari Cooper,Cleveland Browns,6,,,,,,,,,,,,,,
-dontayvion-wicks,Dontayvion Wicks,Green Bay Packers,17,,,,,,,,,,,,,,
-mack-hollins,Mack Hollins,Buffalo Bills,17,,,,,,,,,,,,,,
-christian-kirk,Christian Kirk,Jacksonville Jaguars,8,,,,,,,,,,,,,,
-dawson-knox,Dawson Knox,Buffalo Bills,16,,,,,,,,,,,,,,
-nelson-agholor,Nelson Agholor,Baltimore Ravens,14,,,,,,,,,,,,,,
-daniel-bellinger,Daniel Bellinger,New York Giants,17,,,,,,,,,,,,,,
-dante-pettis,Dante Pettis,New Orleans Saints,8,,,,,,,,,,,,,,
-odell-beckham,Odell Beckham Jr.,Miami Dolphins,9,,,,,,,,,,,,,,
-jamison-crowder,Jamison Crowder,Washington Commanders,6,,,,,,,,,,,,,,
-zay-jones,Zay Jones,Arizona Cardinals,11,,,,,,,,,,,,,,
-parris-campbell,Parris Campbell,Philadelphia Eagles,5,,,,,,,,,,,,,,
-connor-heyward,Connor Heyward,Pittsburgh Steelers,17,,,,,,,,,,,,,,
-james-proche,James Proche,Cleveland Browns,9,,,,,,,,,,,,,,
-feleipe-franks,Feleipe Franks,Carolina Panthers,16,,,,,,,,,,,,,,
-anthony-miller,Anthony Miller,Baltimore Ravens,2,,,,,,,,,,,,,,
-andrew-beck,Andrew Beck,Houston Texans,1,,,,,,,,,,,,,,
-andrew-beck,Andrew Beck,Green Bay Packers,3,,,,,,,,,,,,,,
-braxton-berrios,Braxton Berrios,Miami Dolphins,6,,,,,,,,,,,,,,
-tom-kennedy,Tom Kennedy,Detroit Lions,4,,,,,,,,,,,,,,
-kevin-byard,Kevin Byard,Chicago Bears,17,,,,,,,,,,,,,,
-corey-bojorquez,Corey Bojorquez,Cleveland Browns,17,,,,,,,,,,,,,,
-logan-cooke,Logan Cooke,Jacksonville Jaguars,17,,,,,,,,,,,,,,
-blake-gillikin,Blake Gillikin,Arizona Cardinals,13,,,,,,,,,,,,,,
-zach-pascal,Zach Pascal,Arizona Cardinals,17,,,,,,,,,,,,,,
-justin-tucker,Justin Tucker,Baltimore Ravens,17,,,,,,,,,,,,,,
-mitch-wishnowsky,Mitch Wishnowsky,San Francisco 49ers,9,,,,,,,,,,,,,,
-chris-boswell,Chris Boswell,Pittsburgh Steelers,17,,,,,,,,,,,,,,
-jake-elliott,Jake Elliott,Philadelphia Eagles,17,,,,,,,,,,,,,,
-cairo-santos,Cairo Santos,Chicago Bears,17,,,,,,,,,,,,,,
-matt-prater,Matt Prater,Arizona Cardinals,4,,,,,,,,,,,,,,
-jamie-gillan,Jamie Gillan,New York Giants,13,,,,,,,,,,,,,,
-braden-mann,Braden Mann,Philadelphia Eagles,17,,,,,,,,,,,,,,
-thomas-morstead,Thomas Morstead,New York Jets,17,,,,,,,,,,,,,,
-ryan-wright,Ryan Wright,Minnesota Vikings,17,,,,,,,,,,,,,,
-alex-erickson,Alex Erickson,New England Patriots,3,,,,,,,,,,,,,,
-alex-erickson,Alex Erickson,New England Patriots,3,,,,,,,,,,,,,,
-tommy-townsend,Tommy Townsend,Houston Texans,17,,,,,,,,,,,,,,
-matt-haack,Matt Haack,New York Giants,4,,,,,,,,,,,,,,
-matt-haack,Matt Haack,New York Giants,4,,,,,,,,,,,,,,
-tress-way,Tress Way,Washington Commanders,17,,,,,,,,,,,,,,
-sam-martin,Sam Martin,Buffalo Bills,17,,,,,,,,,,,,,,
-pat-o-donnell,Pat O'Donnell,San Francisco 49ers,8,,,,,,,,,,,,,,
-michael-palardy,Michael Palardy,Arizona Cardinals,4,,,,,,,,,,,,,,
+player_name,team,games,attempts,completions,yards,long_gain,touchdowns,interceptions,first_downs,pass_20_yards_plus,sacks,sacks_yards,team_id,player_id_team
+Derrick Henry,Baltimore Ravens,17,,,,,,,,,,,BAL,derrick-henry-BAL
+Josh Jacobs,Green Bay Packers,17,,,,,,,,,,,GB,josh-jacobs-x3315-GB
+Najee Harris,Pittsburgh Steelers,17,,,,,,,,,,,PIT,najee-harris-x2665-PIT
+D'Andre Swift,Chicago Bears,17,,,,,,,,,,,CHI,d-andre-swift-CHI
+Alvin Kamara,New Orleans Saints,14,,,,,,,,,,,NO,alvin-kamara-NO
+De'Von Achane,Miami Dolphins,17,,,,,,,,,,,MIA,devon-achane-MIA
+Kareem Hunt,Kansas City Chiefs,13,,,,,,,,,,,KC,kareem-hunt-KC
+Cam Akers,Minnesota Vikings,12,,,,,,,,,,,MIN,cam-akers-MIN
+Devin Singletary,New York Giants,15,,,,,,,,,,,NYG,devin-singletary-NYG
+Kenneth Gainwell,Philadelphia Eagles,17,,,,,,,,,,,PHI,kenneth-gainwell-PHI
+Ezekiel Elliott,Dallas Cowboys,15,,,,,,,,,,,DAL,ezekiel-elliott-DAL
+Christian McCaffrey,San Francisco 49ers,4,,,,,,,,,,,SF,christian-mccaffrey-SF
+Cordarrelle Patterson,Pittsburgh Steelers,13,,,,,,,,,,,PIT,cordarrelle-patterson-PIT
+CeeDee Lamb,Dallas Cowboys,15,,,,,,,,,,,DAL,ceedee-lamb-DAL
+Tyreek Hill,Miami Dolphins,17,,,,,,,,,,,MIA,tyreek-hill-MIA
+DeeJay Dallas,Arizona Cardinals,17,,,,,,,,,,,ARI,deejay-dallas-ARI
+Tank Dell,Houston Texans,14,,,,,,,,,,,HOU,tank-dell-HOU
+Ja'Marr Chase,Cincinnati Bengals,17,,,,,,,,,,,CIN,ja-marr-chase-CIN
+Dalvin Cook,Dallas Cowboys,2,,,,,,,,,,,DAL,dalvin-cook-DAL
+Cooper Kupp,Los Angeles Rams,12,,,,,,,,,,,LAR,cooper-kupp-LAR
+Jarrett Stidham,Denver Broncos,4,,,,,,,,,,,DEN,jarrett-stidham-DEN
+Garrett Wilson,New York Jets,17,,,,,,,,,,,NYJ,garrett-wilson-NYJ
+Chris Godwin,Tampa Bay Buccaneers,7,,,,,,,,,,,TB,chris-godwin-TB
+Tanner Hudson,Cincinnati Bengals,11,,,,,,,,,,,CIN,tanner-hudson-CIN
+Travis Kelce,Kansas City Chiefs,16,,,,,,,,,,,KC,travis-kelce-KC
+Jalen Reeves-Maybin,Detroit Lions,10,,,,,,,,,,,DET,jalen-reeves-maybin-DET
+Steven Sims,Baltimore Ravens,2,,,,,,,,,,,BAL,steven-sims-BAL
+Jonnu Smith,Miami Dolphins,17,,,,,,,,,,,MIA,jonnu-smith-MIA
+Jake Browning,Cincinnati Bengals,3,,,,,,,,,,,CIN,jake-browning-CIN
+Drake London,Atlanta Falcons,17,,,,,,,,,,,ATL,drake-london-ATL
+Kadarius Toney,Cleveland Browns,3,,,,,,,,,,,CLE,kadarius-toney-CLE
+Davante Adams,New York Jets,11,,,,,,,,,,,NYJ,davante-adams-NYJ
+A.J. Brown,Philadelphia Eagles,13,,,,,,,,,,,PHI,a-j-brown-PHI
+Mike Gesicki,Cincinnati Bengals,17,,,,,,,,,,,CIN,mike-gesicki-CIN
+DeAndre Hopkins,Kansas City Chiefs,10,,,,,,,,,,,KC,deandre-hopkins-KC
+Amari Cooper,Buffalo Bills,8,,,,,,,,,,,BUF,amari-cooper-BUF
+Dontayvion Wicks,Green Bay Packers,17,,,,,,,,,,,GB,dontayvion-wicks-GB
+Mack Hollins,Buffalo Bills,17,,,,,,,,,,,BUF,mack-hollins-BUF
+Christian Kirk,Jacksonville Jaguars,8,,,,,,,,,,,JAX,christian-kirk-JAX
+Dawson Knox,Buffalo Bills,16,,,,,,,,,,,BUF,dawson-knox-BUF
+Nelson Agholor,Baltimore Ravens,14,,,,,,,,,,,BAL,nelson-agholor-BAL
+Daniel Bellinger,New York Giants,17,,,,,,,,,,,NYG,daniel-bellinger-NYG
+Dante Pettis,New Orleans Saints,8,,,,,,,,,,,NO,dante-pettis-NO
+Odell Beckham Jr.,Miami Dolphins,9,,,,,,,,,,,MIA,odell-beckham-MIA
+Jamison Crowder,Washington Commanders,6,,,,,,,,,,,WAS,jamison-crowder-WAS
+Zay Jones,Arizona Cardinals,11,,,,,,,,,,,ARI,zay-jones-ARI
+Parris Campbell,Philadelphia Eagles,5,,,,,,,,,,,PHI,parris-campbell-PHI
+Connor Heyward,Pittsburgh Steelers,17,,,,,,,,,,,PIT,connor-heyward-PIT
+James Proche,Cleveland Browns,9,,,,,,,,,,,CLE,james-proche-CLE
+Feleipe Franks,Carolina Panthers,16,,,,,,,,,,,CAR,feleipe-franks-CAR
+Anthony Miller,Baltimore Ravens,2,,,,,,,,,,,BAL,anthony-miller-BAL
+Andrew Beck,Houston Texans,1,,,,,,,,,,,HOU,andrew-beck-HOU
+Braxton Berrios,Miami Dolphins,6,,,,,,,,,,,MIA,braxton-berrios-MIA
+Tom Kennedy,Detroit Lions,4,,,,,,,,,,,DET,tom-kennedy-DET
+Kevin Byard,Chicago Bears,17,,,,,,,,,,,CHI,kevin-byard-CHI
+Corey Bojorquez,Cleveland Browns,17,,,,,,,,,,,CLE,corey-bojorquez-CLE
+Logan Cooke,Jacksonville Jaguars,17,,,,,,,,,,,JAX,logan-cooke-JAX
+Blake Gillikin,Arizona Cardinals,13,,,,,,,,,,,ARI,blake-gillikin-ARI
+Zach Pascal,Arizona Cardinals,13,,,,,,,,,,,ARI,zach-pascal-ARI
+Justin Tucker,Baltimore Ravens,17,,,,,,,,,,,BAL,justin-tucker-BAL
+Mitch Wishnowsky,San Francisco 49ers,9,,,,,,,,,,,SF,mitch-wishnowsky-SF
+Chris Boswell,Pittsburgh Steelers,17,,,,,,,,,,,PIT,chris-boswell-PIT
+Jake Elliott,Philadelphia Eagles,17,,,,,,,,,,,PHI,jake-elliott-PHI
+Cairo Santos,Chicago Bears,17,,,,,,,,,,,CHI,cairo-santos-CHI
+Matt Prater,Arizona Cardinals,4,,,,,,,,,,,ARI,matt-prater-ARI
+Jamie Gillan,New York Giants,13,,,,,,,,,,,NYG,jamie-gillan-NYG
+Braden Mann,Philadelphia Eagles,17,,,,,,,,,,,PHI,braden-mann-PHI
+Thomas Morstead,New York Jets,17,,,,,,,,,,,NYJ,thomas-morstead-NYJ
+Ryan Wright,Minnesota Vikings,17,,,,,,,,,,,MIN,ryan-wright-MIN
+Alex Erickson,New England Patriots,3,,,,,,,,,,,NE,alex-erickson-NE
+Tommy Townsend,Houston Texans,17,,,,,,,,,,,HOU,tommy-townsend-HOU
+Matt Haack,New York Giants,4,,,,,,,,,,,NYG,matt-haack-NYG
+Tress Way,Washington Commanders,17,,,,,,,,,,,WAS,tress-way-WAS
+Sam Martin,Buffalo Bills,17,,,,,,,,,,,BUF,sam-martin-BUF
+Pat O'Donnell,San Francisco 49ers,8,,,,,,,,,,,SF,pat-o-donnell-SF
+Michael Palardy,Arizona Cardinals,4,,,,,,,,,,,ARI,michael-palardy-ARI
+Joe Burrow,Cincinnati Bengals,17,652,460,4918,70,43,9,253,49,48,278,CIN,joe-burrow-CIN
+Jared Goff,Detroit Lions,17,539,390,4629,82,37,12,236,61,31,234,DET,jared-goff-DET
+Baker Mayfield,Tampa Bay Buccaneers,17,570,407,4500,57,41,16,224,58,40,248,TB,baker-mayfield-TB
+Geno Smith,Seattle Seahawks,17,578,407,4320,71,21,15,209,50,50,338,SEA,geno-smith-SEA
+Sam Darnold,Minnesota Vikings,17,545,361,4319,97,35,12,207,62,48,335,MIN,sam-darnold-MIN
+Lamar Jackson,Baltimore Ravens,17,474,316,4172,84,41,4,198,56,23,149,BAL,lamar-jackson-BAL
+Patrick Mahomes,Kansas City Chiefs,16,581,392,3928,54,26,11,214,40,36,239,KC,patrick-mahomes-KC
+Aaron Rodgers,New York Jets,17,584,368,3897,71,28,11,192,51,40,302,NYJ,aaron-rodgers-NYJ
+Justin Herbert,Los Angeles Chargers,17,504,332,3870,66,23,3,175,54,41,242,LAC,justin-herbert-LAC
+Brock Purdy,San Francisco 49ers,15,455,300,3864,76,20,12,178,56,31,153,SF,brock-purdy-SF
+Kyler Murray,Arizona Cardinals,17,541,372,3851,60,21,11,191,43,30,220,ARI,kyler-murray-ARI
+Bo Nix,Denver Broncos,17,567,376,3775,93,29,12,170,51,24,198,DEN,bo-nix-DEN
+Matthew Stafford,Los Angeles Rams,16,517,340,3762,69,20,8,176,45,28,213,LAR,matthew-stafford-LAR
+Josh Allen,Buffalo Bills,16,483,307,3731,64,28,6,173,54,14,63,BUF,josh-allen-BUF
+C.J. Stroud,Houston Texans,17,532,336,3727,67,20,12,187,42,52,408,HOU,c-j-stroud-HOU
+Jayden Daniels,Washington Commanders,17,480,331,3568,86,25,9,170,41,47,238,WAS,jayden-daniels-WAS
+Caleb Williams,Chicago Bears,17,562,351,3541,47,20,6,171,40,68,466,CHI,caleb-williams-CHI
+Kirk Cousins,Atlanta Falcons,14,453,303,3508,60,18,16,163,42,28,201,ATL,kirk-cousins-ATL
+Jordan Love,Green Bay Packers,15,425,268,3389,70,25,11,151,48,14,95,GB,jordan-love-GB
+Jalen Hurts,Philadelphia Eagles,15,361,248,2903,67,18,5,139,43,38,271,PHI,jalen-hurts-PHI
+Tua Tagovailoa,Miami Dolphins,11,399,291,2867,80,19,7,161,29,21,154,MIA,tua-tagovailoa-MIA
+Russell Wilson,Pittsburgh Steelers,11,336,214,2482,46,16,5,112,40,33,219,PIT,russell-wilson-PIT
+Bryce Young,Carolina Panthers,14,384,234,2403,83,15,9,117,30,29,186,CAR,bryce-young-CAR
+Drake Maye,New England Patriots,13,338,225,2276,40,15,10,112,25,34,229,NE,drake-maye-NE
+Derek Carr,New Orleans Saints,10,279,189,2145,71,15,5,93,27,8,48,NO,derek-carr-NO
+Jameis Winston,Cleveland Browns,12,296,181,2121,89,13,12,103,24,24,130,CLE,jameis-winston-CLE
+Will Levis,Tennessee Titans,12,301,190,2091,98,13,12,86,25,41,233,TEN,will-levis-TEN
+Daniel Jones,New York Giants,10,341,216,2070,43,8,7,106,19,29,172,NYG,daniel-jones-x5302-NYG
+Trevor Lawrence,Jacksonville Jaguars,10,284,172,2045,85,11,7,97,32,18,140,JAX,trevor-lawrence-JAX
+Gardner Minshew,Las Vegas Raiders,10,306,203,2013,57,9,10,106,22,29,164,LV,gardner-minshew-LV
+Dak Prescott,Dallas Cowboys,8,286,185,1978,65,11,8,87,23,21,112,DAL,dak-prescott-DAL
+Cooper Rush,Dallas Cowboys,12,308,187,1844,64,12,5,92,20,13,95,DAL,cooper-rush-DAL
+Anthony Richardson,Indianapolis Colts,11,264,126,1814,69,8,12,73,28,14,115,IND,anthony-richardson-IND
+Joe Flacco,Indianapolis Colts,8,248,162,1761,65,12,7,87,22,18,123,IND,joe-flacco-IND
+Mac Jones,Jacksonville Jaguars,10,262,171,1672,62,8,8,77,22,14,100,JAX,mac-jones-JAX
+Aidan O'Connell,Las Vegas Raiders,9,243,154,1612,58,8,4,78,20,10,82,LV,aidan-o-connell-LV
+Mason Rudolph,Tennessee Titans,8,228,146,1530,47,9,9,78,18,11,71,TEN,mason-rudolph-TEN
+Spencer Rattler,New Orleans Saints,7,228,130,1317,41,4,5,62,16,22,136,NO,spencer-rattler-NO
+Deshaun Watson,Cleveland Browns,7,216,137,1148,35,5,3,49,11,33,191,CLE,deshaun-watson-CLE
+Justin Fields,Pittsburgh Steelers,10,161,106,1106,55,5,1,45,15,16,124,PIT,justin-fields-PIT
+Drew Lock,New York Giants,8,181,107,1071,59,6,5,45,11,12,88,NYG,drew-lock-NYG
+Andy Dalton,Carolina Panthers,6,160,106,989,39,7,6,50,13,7,37,CAR,andy-dalton-CAR
+Tyler Huntley,Miami Dolphins,5,133,86,829,25,3,3,45,6,15,92,MIA,tyler-huntley-MIA
+Jacoby Brissett,New England Patriots,8,161,95,826,50,2,1,41,7,18,119,NE,jacoby-brissett-NE
+Michael Penix Jr.,Atlanta Falcons,5,105,61,775,42,3,3,35,12,4,14,ATL,michael-penix-jr-ATL
+Malik Willis,Green Bay Packers,7,54,40,550,51,3,0,20,11,8,37,GB,malik-willis-GB
+Desmond Ridder,Las Vegas Raiders,6,85,52,458,28,2,2,24,7,10,64,LV,desmond-ridder-LV
+Dorian Thompson-Robinson,Cleveland Browns,7,118,61,440,29,0,6,20,1,8,47,CLE,dorian-thompson-robinson-CLE
+Marcus Mariota,Washington Commanders,3,44,34,364,29,4,0,22,4,3,29,WAS,marcus-mariota-WAS
+Joshua Dobbs,San Francisco 49ers,2,47,32,361,36,2,2,18,5,2,28,SF,joshua-dobbs-SF
+Jimmy Garoppolo,Los Angeles Rams,1,41,27,334,50,2,1,16,6,3,15,LAR,jimmy-garoppolo-LAR
+Tanner McKee,Philadelphia Eagles,2,45,30,323,25,4,0,17,2,2,17,PHI,tanner-mckee-PHI
+Kenny Pickett,Philadelphia Eagles,5,42,25,291,49,2,1,12,4,4,33,PHI,kenny-pickett-PHI
+Tim Boyle,New York Giants,1,24,12,123,25,1,1,4,2,1,2,NYG,tim-boyle-NYG
+Trey Lance,Dallas Cowboys,4,41,25,266,33,0,1,13,4,4,23,DAL,trey-lance-DAL
+Tommy DeVito,New York Giants,3,44,31,257,23,0,0,15,2,6,31,NYG,tommy-devito-NYG
+Joe Milton III,New England Patriots,1,29,22,241,48,1,0,14,2,0,0,NE,joe-milton-iii-NE
+Jake Haener,New Orleans Saints,8,39,18,226,36,1,1,10,3,6,55,NO,jake-haener-NO
+Davis Mills,Houston Texans,5,36,20,212,25,0,0,9,3,2,18,HOU,davis-mills-HOU
+Brandon Allen,San Francisco 49ers,3,30,17,199,31,1,2,8,5,2,2,SF,brandon-allen-SF
+Skylar Thompson,Miami Dolphins,2,33,21,187,22,0,0,8,1,6,44,MIA,skylar-thompson-MIA
+Mitchell Trubisky,Buffalo Bills,9,26,19,179,69,2,0,7,2,0,0,BUF,mitchell-trubisky-BUF
+Bailey Zappe,Cleveland Browns,1,31,16,170,30,1,2,8,3,1,5,CLE,bailey-zappe-CLE
+Tyrod Taylor,New York Jets,2,22,17,119,20,3,0,9,1,0,0,NYJ,tyrod-taylor-NYJ
+Carson Wentz,Kansas City Chiefs,3,19,12,118,25,0,0,5,2,4,22,KC,carson-wentz-KC
+Hendon Hooker,Detroit Lions,3,9,6,62,21,0,0,3,1,1,9,DET,hendon-hooker-DET
+Nick Mullens,Minnesota Vikings,5,2,2,38,24,0,0,2,1,0,0,MIN,nick-mullens-MIN
+Jaxon Smith-Njigba,Seattle Seahawks,17,1,1,35,35,0,0,1,1,0,0,SEA,jaxon-smith-njigba-SEA
+AJ Cole,Las Vegas Raiders,17,1,1,34,34,0,0,1,1,0,0,LV,a-j-cole-LV
+Courtland Sutton,Denver Broncos,17,2,2,30,28,1,0,2,1,0,0,DEN,courtland-sutton-DEN
+Taylor Heinicke,Los Angeles Chargers,4,5,3,28,18,0,0,1,0,3,28,LAC,taylor-heinicke-LAC
+Mike White,Buffalo Bills,1,11,3,28,14,0,0,1,0,0,0,BUF,mike-white-BUF
+Sam Howell,Seattle Seahawks,2,14,5,24,12,0,1,1,0,4,21,SEA,sam-howell-SEA
+Adonai Mitchell,Indianapolis Colts,17,1,1,24,24,0,0,1,1,0,0,IND,adonai-mitchell-IND
+Justin Jefferson,Minnesota Vikings,17,1,1,22,22,0,0,1,1,0,0,MIN,justin-jefferson-MIN
+Taysom Hill,New Orleans Saints,8,4,2,21,18,0,1,1,0,0,0,NO,taysom-hill-NO
+Cedrick Wilson Jr.,New Orleans Saints,15,1,1,21,21,1,0,1,1,1,3,NO,ced-wilson-NO
+Kyle Allen,Pittsburgh Steelers,1,1,1,19,19,0,0,1,0,0,0,PIT,kyle-allen-PIT
+Jalen Coker,Carolina Panthers,11,1,1,19,19,0,0,1,0,0,0,CAR,jalen-coker-CAR
+Jack Fox,Detroit Lions,17,1,1,17,17,0,0,1,0,0,0,DET,jack-fox-x0892-DET
+Josh Johnson,Baltimore Ravens,5,3,2,17,16,0,0,1,0,1,5,BAL,josh-johnson-BAL
+Stefon Diggs,Houston Texans,8,1,1,13,13,0,0,1,0,0,0,HOU,stefon-diggs-HOU
+Tyson Bagent,Chicago Bears,4,2,2,11,6,0,0,1,0,0,0,CHI,tyson-bagent-CHI
+Clayton Tune,Arizona Cardinals,6,2,2,8,7,0,0,0,0,0,0,ARI,clayton-tune-ARI
+Amon-Ra St. Brown,Detroit Lions,17,1,1,7,7,1,0,1,0,0,0,DET,amon-ra-st-brown-DET
+Kyle Trask,Tampa Bay Buccaneers,4,1,1,5,5,0,0,0,0,0,0,TB,kyle-trask-TB
+Bryan Anger,Dallas Cowboys,17,2,1,4,4,0,0,0,0,0,0,DAL,bryan-anger-DAL
+Riley Dixon,Denver Broncos,17,1,1,3,3,0,0,0,0,0,0,DEN,riley-dixon-DEN
+David Montgomery,Detroit Lions,14,1,1,3,3,1,0,1,0,0,0,DET,david-montgomery-DET
+J.K. Scott,Los Angeles Chargers,17,1,1,3,3,0,0,0,0,0,0,LAC,j-k-scott-LAC
+Keenan Allen,Chicago Bears,15,1,0,0,0,0,1,0,0,0,0,CHI,keenan-allen-CHI
+Tutu Atwell,Los Angeles Rams,17,1,0,0,0,0,0,0,0,0,0,LAR,tutu-atwell-LAR
+Saquon Barkley,Philadelphia Eagles,16,0,0,0,0,0,0,0,0,1,2,PHI,saquon-barkley-PHI
+Kendrick Bourne,New England Patriots,12,1,0,0,0,0,0,0,0,0,0,NE,kendrick-bourne-NE
+Tyler Boyd,Tennessee Titans,16,1,0,0,0,0,0,0,0,0,0,TEN,tyler-boyd-TEN
+Dyami Brown,Washington Commanders,16,1,0,0,0,0,0,0,0,0,0,WAS,dyami-brown-WAS
+Ty Chandler,Minnesota Vikings,16,0,0,0,0,0,0,0,0,1,1,MIN,ty-chandler-MIN
+Johnny Hekker,Carolina Panthers,17,2,0,0,0,0,0,0,0,0,0,CAR,johnny-hekker-CAR
+Miles Killebrew,Pittsburgh Steelers,17,1,0,0,0,0,0,0,0,0,0,PIT,miles-killebrew-PIT
+Allen Lazard,New York Jets,12,1,0,0,0,0,0,0,0,0,0,NYJ,allen-lazard-NYJ
+Jakobi Meyers,Las Vegas Raiders,15,0,0,0,0,0,0,0,0,1,10,LV,jakobi-meyers-LV
+Joe Mixon,Houston Texans,14,1,0,0,0,0,0,0,0,0,0,HOU,joe-mixon-HOU
+Darnell Mooney,Atlanta Falcons,16,1,0,0,0,0,0,0,0,0,0,ATL,darnell-mooney-ATL
+DJ Moore,Chicago Bears,17,1,0,0,0,0,0,0,0,0,0,CHI,d-j-moore-CHI
+Malik Nabers,New York Giants,15,1,0,0,0,0,0,0,0,0,0,NYG,malik-nabers-NYG
+Chris Oladokun,Kansas City Chiefs,1,0,0,0,0,0,0,0,0,1,5,KC,chris-oladokun-KC
+Ricky Pearsall,San Francisco 49ers,11,1,0,0,0,0,0,0,0,0,0,SF,ricky-pearsall-SF
+Bradley Pinion,Atlanta Falcons,17,0,0,0,0,0,0,0,0,0,0,ATL,bradley-pinion-ATL
+Deebo Samuel Sr.,San Francisco 49ers,15,0,0,0,0,0,0,0,0,1,4,SF,deebo-samuel-SF
+Penei Sewell,Detroit Lions,17,0,0,0,0,0,0,0,0,1,1,DET,penei-sewell-DET
